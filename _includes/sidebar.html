@@ -1,0 +1,16 @@
+<div class="sidebar">
+    <div class="container sidebar-sticky">
+        <div class="sidebar-about">
+            <h1>
+                <a href="/">{{ site.title }}</a>
+            </h1>
+            <p class="lead">{{ page.description }}</p>
+        </div>
+        <nav class="sidebar-nav">
+            <p class="sidebar-nav-item">
+                <a href="/"{% if page.url == '/' %} class="active"{% endif %}>En</a> / <a href="/ru.html"{% if page.url == '/ru.html' %} class="active"{% endif %}>Ru</a>
+            </p>
+        </nav>
+        <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    </div>
+</div>
