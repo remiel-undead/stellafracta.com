@@ -11,17 +11,19 @@ Writer, alchemist, podcaster, sommelier. Architect of the Fractured Star Univers
 
 ✈️ [Telegram (Alchemists, Poets & Liars)](https://t.me/alchemists_poets)
 
-✍️ [Zen](https://dzen.ru/stellafracta)
+✍️ [Blog](https://dzen.ru/stellafracta)
 
 📹 [YouTube](https://www.youtube.com/@stellafracta)
 
-🎧 [Apple Podcasts - Есть что сказать с Александрой Undead [RU]](https://podcasts.apple.com/us/podcast/есть-что-сказать-с-александрой-undead/id1618751607)
+🎧 [Spotify - Голос писателя [RU]](https://open.spotify.com/show/03CzcNfLnUmxdaHSFaGyHk)
+
+🎧 [Spotify - Есть что сказать с Александрой Undead [RU]](https://open.spotify.com/show/7ILyohFnuqQOY8WMcGIviX)
 
 📚 [VK Book Club](https://vk.com/stellafractabooks)
 
 🍷 [VK winewithsasha Wine Education Project](https://vk.com/winewithsasha)
 
-🎧 [VK Podcast - Есть что сказать с Александрой Undead [RU]](https://vk.com/sashaspeakspodcast)
+🎧 [VK Podcast Page - Есть что сказать с Александрой Undead [RU]](https://vk.com/sashaspeakspodcast)
 
 📚 [Fanfiction & Unpublished](https://ficbook.net/authors/6401465/profile/works#content)
 
@@ -536,6 +538,38 @@ Read
 - 📚 [Amazon](https://www.amazon.com/dp/B0BHZ9PBZY)
 - 📚 [Ridero](https://ridero.ru/books/chumnaya_maska/)
 
+# **“Голос писателя” Podcast [RU]**
+
+**English Title:** “Writer's Voice”
+
+**Language:** Russian
+
+Stella Fracta, the writer, the alchemist and the philosophical prose author, is the voice behind the scenes—in the "Writer's Voice" podcast—for those who don't want to read, but do want to listen.
+
+**Topics**: books, fiction, philosophy, psychology, alchemy, author's reading, writing.
+
+![Writer's_Voice_Cover.jpg](/public/img/Writer's_Voice_Cover.jpg)
+
+🎧 [Yandex.Music](https://music.yandex.ru/album/30466059)
+
+🎧 [Spotify](https://open.spotify.com/show/03CzcNfLnUmxdaHSFaGyHk)
+
+🎧 [VK](https://vk.com/podcasts-216966940)
+
+📹 [YouTube](https://www.youtube.com/playlist?list=PL4M4dR773ukdcBl9Z7EJ9h1gIeoLiMN3j)
+
+🎧 [Litres](https://www.litres.ru/podcast/stella-frakta/golos-pisatelya-70735441/)
+
+🎧 [PodcastRu](https://podcast.ru/1738390311)
+
+🎧 [Apple Podcasts](https://podcasts.apple.com/podcast/id1738390311)
+
+🎧 [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9jbG91ZC5tYXZlLmRpZ2l0YWwvNTQwNjE=)
+
+🎧 [Mave](https://stellafractavoice.mave.digital)
+
+📧 [pr@stellafracta.com](mailto:pr@stellafracta.com)
+
 # **“Есть что сказать с Александрой Undead” Podcast [RU]**
 
 **English Title:** “I’ve Got Something to Say With Alexandra Undead”
@@ -546,7 +580,11 @@ Alexandra has something to say. A podcast in Russian about communication with th
 
 **Topics**: writing, alcohol culture, psychology, subjective opinion.
 
+![Podcast_Img_Profile_4.jpg](/public/img/Podcast_Img_Profile_4.jpg)
+
 🎧 [Yandex.Music](https://music.yandex.ru/album/22291166)
+
+🎧 [Spotify](https://open.spotify.com/show/7ILyohFnuqQOY8WMcGIviX)
 
 🎧 [VK](https://vk.com/sashaspeakspodcast)
 
@@ -570,7 +608,7 @@ Alexandra has something to say. A podcast in Russian about communication with th
 
 I develop the alcohol drinking culture, get you drunk, entertain you, educate you.
 
-Wine Seminars, tastings, bar, parties.
+Wine seminars, tastings, bar, parties.
 
 ✍️ [Sommelier by Love, Bartender by Call. Why I Don’t Teach People How to Drink Anymore](https://dzen.ru/a/ZM4iZStKUm7-hwSO)
 

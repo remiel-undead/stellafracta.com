@@ -15,6 +15,8 @@ description: Писатель, алхимик, подкастер, сомель�
 
 📹 [YouTube](https://www.youtube.com/@stellafracta)
 
+🎧 [Яндекс.Музыка: подкаст «Голос писателя»](https://music.yandex.ru/album/30466059)
+
 🎧 [Яндекс.Музыка: подкаст «Есть что сказать с Александрой Undead»](https://music.yandex.ru/album/22291166)
 
 📚 [VK про книги](https://vk.com/stellafractabooks)
@@ -505,13 +507,45 @@ Confrontation of friends and foes, forces of order and chaos, reason and im
 
 Книга является англоязычным переводом романа **«Невероятный шпионский детектив»**, переводчик Sigurd the Dane (Сигурд Датчанин), редактор Alexandra Undead (Александра Undead).
 
+# Подкаст «Голос писателя» [RU]
+
+Стелла Фракта, писатель, алхимик и автор философской прозы, голос за кадром — в подкасте «Голос писателя» — для тех, кто не хочет читать, но хочет слушать.
+
+**Темы:** книги, художественная литература, философия, психология, алхимия, читает автор, профессия писателя.
+
+![Writer's_Voice_Cover.jpg](/public/img/Writer's_Voice_Cover.jpg)
+
+🎧 [Яндекс.Музыка](https://music.yandex.ru/album/30466059)
+
+🎧 [Spotify](https://open.spotify.com/show/03CzcNfLnUmxdaHSFaGyHk)
+
+🎧 [VK](https://vk.com/podcasts-216966940)
+
+📹 [YouTube](https://www.youtube.com/playlist?list=PL4M4dR773ukdcBl9Z7EJ9h1gIeoLiMN3j)
+
+🎧 [Литрес](https://www.litres.ru/podcast/stella-frakta/golos-pisatelya-70735441/)
+
+🎧 [PodcastRu](https://podcast.ru/1738390311)
+
+🎧 [Apple Podcasts](https://podcasts.apple.com/podcast/id1738390311)
+
+🎧 [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9jbG91ZC5tYXZlLmRpZ2l0YWwvNTQwNjE=)
+
+🎧 [Mave](https://stellafractavoice.mave.digital)
+
+📧 [pr@stellafracta.com](mailto:pr@stellafracta.com)
+
 # Подкаст «Есть что сказать с Александрой Undead» [RU]
 
 Александре есть что сказать. Подкаст про коммуникацию с миром через творчество, голос, позволение себе, наконец, быть услышанной.
 
 **Темы:** писательство, алкогольная культура, психология, субъективное мнение.
 
+![Podcast_Img_Profile_4.jpg](/public/img/Podcast_Img_Profile_4.jpg)
+
 🎧 [Яндекс.Музыка](https://music.yandex.ru/album/22291166)
+
+🎧 [Spotify](https://open.spotify.com/show/7ILyohFnuqQOY8WMcGIviX)
 
 🎧 [VK](https://vk.com/sashaspeakspodcast)
 
