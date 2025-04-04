@@ -1,15 +1,15 @@
 ---
 layout: default
-description: Writer, alchemist, podcaster, sommelier. Architect of the Fractured Star Universe.
+description: Writer, alchemist, philosopher, podcaster. Architect of the Fractured Star Universe.
 ---
 
-# Alexandra Undead / Stella Fracta
+# Stella Fracta / Alexandra Undead
 
-Writer, alchemist, podcaster, sommelier. Architect of the Fractured Star Universe, author of spy novel series about philosophers, poets and liars.
+Writer, alchemist, philosopher, podcaster. Architect of the Fractured Star Universe, author of spy novel series about alchemists, poets and liars.
 
-✈️ [Telegram (Books & Blog)](https://t.me/stellafracta_blog)
+✍️ [Telegram (Books & Blog)](https://t.me/stellafracta_blog)
 
-✈️ [Telegram (Alchemists, Poets & Liars)](https://t.me/alchemists_poets)
+✍️ [Telegram (Alchemists, Poets & Liars)](https://t.me/alchemists_poets)
 
 ✍️ [Blog](https://dzen.ru/stellafracta)
 
@@ -19,7 +19,7 @@ Writer, alchemist, podcaster, sommelier. Architect of the Fractured Star Univers
 
 🎧 [Spotify - Есть что сказать с Александрой Undead [RU]](https://open.spotify.com/show/7ILyohFnuqQOY8WMcGIviX)
 
-📚 [VK Book Club](https://vk.com/stellafractabooks)
+📚 [VK Book Club - Голос писателя [RU]](https://vk.com/stellafractabooks)
 
 🍷 [VK winewithsasha Wine Education Project](https://vk.com/winewithsasha)
 
@@ -37,11 +37,16 @@ Writer, alchemist, podcaster, sommelier. Architect of the Fractured Star Univers
 
 📧 [pr@stellafracta.com](mailto:pr@stellafracta.com)
 
-# Books
+# Books in English / Translations
 
 Stella Fracta is the pen name of the Russian writer Alexandra Undead, an alchemy popularizer, the author of intellectual prose, spy, detective and mystical novels.
 Her books are the philosophical drama of a multiverse world, where each participant is a creator and the Architect of One’s Universe, a poet, and a bit of a liar.
 Arts and technologies, analytical psychology and hermeneutics, the power of imagination and the call of being—in fiction stories indistinguishable from reality, every word in which is a part of a spell that gives the meanings.
+
+"Writer's Voice" podcast—for those who don't want to read, but do want to listen
+
+- 📹 [Watch](https://www.youtube.com/playlist?list=PL4M4dR773ukdcBl9Z7EJ9h1gIeoLiMN3j)
+- 🎧 [Listen](https://stellafractavoice.mave.digital)
 
 The back side of book business in the podcast “Есть что сказать с Александрой Undead” 
 
@@ -85,21 +90,132 @@ Read
 - 📚 [Stroki](https://stroki.mts.ru/book/incredible-spy-detective-poets-and-liars-206979)
 - 📚 [Ridero](https://ridero.ru/books/incredible_spy_detective/)
 
-Read more
-
-- ✍️ [Science Fiction, Fantasy or Realism? Incredible Spy Detective](https://dzen.ru/a/ZN9vOj_5jXCGswgz)
-- ✍️ [Spy Novel and Alchemy. What’s in Common](https://dzen.ru/a/ZJHa5APltUbjmIYn)
-- ✍️ [Book for 3 Weeks. The Price of Success, the Price of Mistake](https://dzen.ru/a/ZGyaEKPfhBmArwrI)
-- 📌 [Notes & quotes about spies, poets & liars](https://dzen.ru/suite/d4d1aa2c-7eba-47a9-a353-d1e695e492c0)
-- 📌 [Quotes on LiveLib](https://www.livelib.ru/work/1008467206-neveroyatnyj-shpionskij-detektiv-poety-i-lzhetsy-stella-frakta)
-- 🎵 [Soundtracks (Single Alexandra Undead - INFERNO - ONREFNI)](https://t.me/stellafracta_blog/1074)
-
-Stella Fracta & “Incredible Spy Detective” novel at the international book fair NonFiction Spring 2023
-
-- 🖼️ [Gallery](https://vk.com/album-216966940_287895307)
-- 📹 [Video](https://youtube.com/shorts/ZKOXydSK-9k?feature=share)
-
 The book is an English translation of the novel “**Невероятный шпионский детектив”** from Russian. Translator: Sigurd the Dane, editor: Alexandra Undead.
+
+## Stella Fracta "Albedo Castle"
+
+**Original Title:** “Замок Альбедо”
+
+**Language:** English
+
+*He’s doing everything right. Leave it to others to do it correctly*
+
+**Spies, alchemists, teachers and students, Formula One in Japan**
+
+![Albedo Castle Eng Ridero Official.jpg](/public/img/Albedo_Castle_Eng_Ridero_Official.jpg)
+
+Amid the racing season, the mechanic of the champion team is attacked, ahead is the Grand Prix at the Japanese circuit.
+The mechanic is an undercover MI6 agent, his archenemy is a Russian spy who returned from the dead to take revenge.
+The power of dreams, the car manufacturers’ technology of the future, alchemists, Poets, and liars will meet again to play a dangerous secret Game — in plain sight of the world.
+
+The second stage of the Great Work, albedo, the sequel to Incredible Spy Detective.
+
+**Genre:** Detective / Thriller / Spy novel / Philosophical novel / Modern prose
+
+**Size:** Novel
+
+Buy
+
+- 📚 [Ozon](https://www.ozon.ru/product/albedo-castle-1912348151/)
+- 📚 [Wildberries](https://www.wildberries.ru/catalog/346863547/detail.aspx)
+
+Read
+
+- 📚 [Amazon](http://www.amazon.com/dp/B0DZCTRSWN)
+- 📚 [Apple Books](https://books.apple.com/gb/book/albedo-castle/id6742870741)
+- 📚 [Books.Yandex](https://books.yandex.ru/books/Etoj2IVs)
+- 📚 [Litres](http://www.litres.ru/book/stella-fracta/albedo-castle-71730193/)
+- 📚 [Mybook](https://mybook.ru/author/stella-fracta/albedo-castle/)
+- 📚 [Stroki](https://stroki.mts.ru/book/albedo-castle-303617)
+- 📚 [Ridero](https://ridero.ru/books/albedo_castle/)
+
+The book is an English translation of the novel “**Замок Альбедо”** from Russian. Translator: Alexandra Undead.
+
+## Stella Fracta "The Knight, the Beauty, the Beast, the Fool"
+
+**Original Title:** “Рыцарь, красавица, чудовище, шут”
+
+**Language:** English
+
+*Eat a heart—gain love*
+
+**Detective, murderous love, FBI and Baltimore serial killers**
+
+![Knight, Beauty, Beast, Fool Eng Ridero Official.jpg](/public/img/Knight_Beauty_Beast_Fool_Eng_Ridero_Official.jpg)
+
+The Heartthrob, a serial killer, is terrorizing a Baltimore neighborhood.
+A consultant psychiatrist assists the investigation, a fatal passion erupts between his patient, a golden-haired singer, and a young FBI agent.
+Someone is leaving clues for the profiler, who uses the method of active imagination; a taciturn bodybuilder living next door becomes the keeper of secrets.
+Eat a heart — gain love…
+Such is the title of the tragedy about a dragon who killed princesses and searched for a friend.
+
+**Genre:** Detective / Thriller / Horror / Modern prose
+
+**Size:** Novel
+
+Buy
+
+- 📚 [Wildberries](https://www.wildberries.ru/catalog/346870809/detail.aspx)
+
+Read
+
+- 📚 [Amazon](http://www.amazon.com/dp/B0DZCTK5T2)
+- 📚 [Apple Books](https://books.apple.com/gb/book/the-knight-the-beauty-the-beast-the-fool-eat-a-heart-gain-love/id6742870778)
+- 📚 [Yandex.Books](https://books.yandex.ru/books/wPAhOnZ2)
+- 📚 [Litres](https://www.litres.ru/book/stella-fracta/the-knight-the-beauty-the-beast-the-fool-eat-a-heart-gain-lo-71730268/)
+- 📚 [Mybook](https://mybook.ru/author/stella-fracta/the-knight-the-beauty-the-beast-thefool-eat-aheart/)
+- 📚 [Stroki](https://stroki.mts.ru/book/the-knight-the-beauty-the-beast-thefool-303618)
+- 📚 [Ridero](https://ridero.ru/books/the_knight_the_beauty_the_beast_the_fool/)
+
+The book is an English translation of the novel  “**Рыцарь, красавица, чудовище, шут”** from Russian. Translator: Alexandra Undead.
+
+## Other short novels / novellas
+
+**Stella Fracta "Home All Alone"**
+
+To learn about a family, look at their child. Hannibal Lecter is sixteen, and for Christmas he is left to look after six-year-old Will Graham, eleven-year-olds Allex Serret, William Gustavsson and Victor Myer, and twelve-year-olds Neil Blake and Dylan Vermillion at the von Reichenberg family home.
+
+A fanfic on 'Hannibal' x 'The Knight, the Beauty, the Beast, the Fool' (Stella Fracta) x 'Wild and Violent' (Stella Fracta).
+
+- 📚 [Wattpad](https://www.wattpad.com/story/387506300-home-all-alone)
+- 📚 [Ao3](https://archiveofourown.org/works/61895815)
+- 📚 [Ficbook - Russian Version - Одни дома](https://ficbook.net/readfic/13017720)
+
+**Stella Fracta "Shadows of Florence"**
+
+Hannibal Lecter, under the name of Dr. Roman Fell, curator of the Capponi Library, is invited to the art studio of Albina Lupo, a Florentine gallery owner.
+He is perceptive enough to realize that the model, Richard, her young lover, is not who he claims to be.
+
+Fanfic on 'Hannibal' (Thomas Harris) x 'Incredible Spy Detective' (Stella Fracta).
+
+- 📚 [Wattpad](https://www.wattpad.com/story/387581425-shadows-of-florence)
+- 📚 [Ao3](https://archiveofourown.org/works/61930099)
+- 📚 [Ficbook - Russian Version - Тени Флоренции](https://ficbook.net/readfic/13397866)
+
+**Stella Fracta "Glorious Evolution"**
+
+What is the heart for, if it only hurts?
+What is the infirm, fragile, vulnerable body for, if the only thing predestined to it is--fading, decaying, death?
+Viktor knows by his own experience how the loss of what was once alive, but died, tortures the soul and the body.
+But what if it can be brought back?
+To meddle in the confrontation of chaos and order, to comprehend the code of the universe in the moment of the final flash-in the name of progress and glorious evolution...
+A scientist who dares to take over the laws of nature pays a high price.
+
+- 📚 [Wattpad](https://www.wattpad.com/story/387361710-glorious-evolution)
+- 📚 [Ao3](https://archiveofourown.org/works/61864324)
+- 📚 [Ficbook Russian Version - Великая Эволюция](https://ficbook.net/readfic/11966157)
+
+**Stella Fracta "Letters to Mechanical Heart"**
+
+Viktor has been writing letters to his student friend, separated from him by the tragic circumstances, for years.
+The letters never reach the address; in the meantime, Alex de Blancs has immersed herself into the depths of Zaun's slums in search of answers to her questions.
+Prequel to 'Glorious Evolution' by Stella Fracta.
+
+- 📚 [Wattpad](https://www.wattpad.com/story/387410456-letters-to-mechanical-heart)
+- 📚 [Ao3](https://archiveofourown.org/works/61864972)
+- 📚 [Ficbook Russian Version - Письма механическому сердцу](https://ficbook.net/readfic/12085817)
+
+# Books in Russian
 
 ## Стелла Фракта “Невероятный шпионский детектив”
 
@@ -129,27 +245,29 @@ Read
 - 📚 [Apple Books](https://books.apple.com/de/book/невероятный-шпионский-детектив-поэты-и-лжецы/id6446994284)
 - 📚 [Ridero](https://ridero.ru/books/neveroyatnyi_shpionskii_detektiv/)
 
+Read more
+
+- ✍️ [Science Fiction, Fantasy or Realism? Incredible Spy Detective](https://dzen.ru/a/ZN9vOj_5jXCGswgz)
+- ✍️ [Spy Novel and Alchemy. What’s in Common](https://dzen.ru/a/ZJHa5APltUbjmIYn)
+- ✍️ [Book for 3 Weeks. The Price of Success, the Price of Mistake](https://dzen.ru/a/ZGyaEKPfhBmArwrI)
+- 📌 [Notes & quotes about spies, poets & liars](https://dzen.ru/suite/d4d1aa2c-7eba-47a9-a353-d1e695e492c0)
+- 📌 [Quotes on LiveLib](https://www.livelib.ru/work/1008467206-neveroyatnyj-shpionskij-detektiv-poety-i-lzhetsy-stella-frakta)
+- 🎵 [Soundtracks (Single Alexandra Undead - INFERNO - ONREFNI)](https://t.me/stellafracta_blog/1074)
+
+Stella Fracta & “Incredible Spy Detective” novel at the international book fair NonFiction Spring 2023
+
+- 🖼️ [Gallery](https://vk.com/album-216966940_287895307)
+- 📹 [Video](https://youtube.com/shorts/ZKOXydSK-9k?feature=share)
+
 ## Стелла Фракта “Замок Альбедо”
 
 **English Title:** “Albedo Castle”
 
 **Language:** Russian
 
-*He’s doing everything right. Leave it to others to do it correctly*
-
-**Spies, alchemists, teachers and students, Formula One in Japan**
-
 ![Albedo Castle Ridero Cover Official.jpg](/public/img/Albedo_Castle_Ridero_Cover_Official.jpg)
 
-Amid the racing season, the mechanic of the champion team is attacked, ahead is the Grand Prix at the Japanese circuit.
-The mechanic is an undercover MI6 agent, his archenemy is a Russian spy who returned from the dead to take revenge.
-The power of dreams, the car manufacturers’ technology of the future, alchemists, Poets and liars will meet again to play a dangerous secret Game—in plain sight of the world.
-
-The second stage of the Great Work, albedo, the sequel to “Incredible Spy Detective”.
-
-**Genre:** Detective / Thriller / Spy novel / Philosophical novel / Modern prose
-
-**Size:** Novel
+<iframe width="942" height="530" src="https://www.youtube.com/embed/x_zlLaExCzc" title="Red Bull Racing, Honda, Формула-1 и Замок Альбедо в Японии | Голос писателя - Стелла Фракта" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Buy
 
@@ -169,7 +287,7 @@ Read
 - 📚 [Apple Books](https://books.apple.com/de/book/замок-альбедо/id6457995691)
 - 📚 [Ridero](https://ridero.ru/books/zamok_albedo/)
 
-More
+Read more
 
 - ✍️ [Red Bull Racing, Honda, Formula 1 and Albedo Castle in Japan](https://dzen.ru/a/ZMjeaQJgbSSTKT3A)
 - ✍️ [Albedo Castle: The Tower of Babel, Bruegel, a Museum in Rotterdam and Illegal Jokes in the Book](https://dzen.ru/a/ZKgB2mukEyyP7zeh)
@@ -202,6 +320,8 @@ A philosophical action drama about being able to go back, the sequel to “Albed
 **Genre:** Thriller / Detective / Adventures / Modern prose
 
 **Size:** Novel
+
+<iframe width="942" height="530" src="https://www.youtube.com/embed/qn-ln0IN8PU" title="Байесовская игра: Глава 36. Грусть - Отрывок из книги Стеллы Фракта | Голос писателя - Бонус" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Buy
 
@@ -278,20 +398,7 @@ Stella Fracta & “Cats Don’t Drink Wine” at the international book fair Non
 
 **Language:** Russian
 
-*Eat a heart—gain love*
-
-**Detective, murderous love, FBI and Baltimore serial killers**
-
 ![Knight Beauty Beast Fool Ridero Cover Official.jpg](/public/img/Knight_Beauty_Beast_Fool_Ridero_Cover_Official.jpg)
-
-The Heartthrob, a serial killer, is terrorizing a rich Baltimore neighborhood.
-A consultant psychiatrist assists the investigation, a fatal passion erupts between his patient, a golden-haired singer, and a young FBI agent.
-Someone is leaving clues for the profiler, who uses the method of active imagination; a mute bodybuilder living next door becomes the keeper of secrets.
-Eat a heart—gain love…Such is the title of the tragedy about a dragon who killed princesses and searched for a friend.
-
-**Genre:** Detective / Thriller / Horror / Modern prose
-
-**Size:** Novel
 
 <iframe width="942" height="530" src="https://www.youtube.com/embed/Z97J45DIHeM" title="Стелла Фракта «Клоун ФБР: Рыцарь, красавица, чудовище, шут» | Детектив, сериал Ганнибал | Буктрейлер" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -306,6 +413,7 @@ Read
 - 📚 [Bookmate](https://bookmate.ru/books/BH0pReiY)
 - 📚 [Mybook](https://mybook.ru/author/stella-frakta/rycar-krasavica-chudovisheshut-sesh-serdce-poluchi/)
 - 📚 [Amazon](https://www.amazon.com/Рыцарь-красавица-чудовище-шут-получишь-ebook/dp/B0CRZ2JMPL/)
+- 📚 [Ридеро](https://ridero.ru/books/rycar_krasavica_chudovishe_shut)
 
 Read more
 
@@ -317,6 +425,50 @@ Read more
 
 Previously, the book was published as a fan fiction for the Hannibal series under the title "FBI Clown: The Knight, the Beauty, the Beast, the Fool."
 Now all rights are reserved, and the novel has been published with original characters.
+
+## Стелла Фракта "Рассказчик из Уайтчепела"
+
+**English Title:** "Storyteller from Whitechapel"
+
+**Language:** Russian
+
+*I'm no detective. I'm a theoretical criminal*
+
+**The recipe for a legendary crime, a serial killer, a psychiatrist, and the London police**
+
+![Whitechapel Ridero Cover Official.jpg](/public/img/Whitechapel_Ridero_Cover_Official.jpg)
+
+Dr. Wilson, a professor of forensic psychiatry, is appointed as a consultant at Whitechapel Police Station to assist detectives investigating the case of the serial killer The Storyteller, who is creating bloody narrative installations.
+Medical examiner Hart notices that Wilson understands the "story" and speaks the language of the criminal — which means he can find him.
+A philosophical novel about the legacy of alchemists and creators — in the symbolic language of mytho-poetic hermeneutics in the prosaic, cruel reality of modern-day London.
+
+**Genre:** Detective / Thriller / Horror / Modern prose
+
+**Size:** Novel
+
+<iframe width="942" height="530" src="https://www.youtube.com/embed/L2wX8z_JCZ8" title="Рассказчик из Уайтчепела: Глава 32. Рецепт - Отрывок из книги Стеллы Фракта | Голос писателя - Бонус" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Buy
+
+- 📚 [Ozon](https://www.ozon.ru/product/rasskazchik-iz-uaitchepela-frakta-stella-1708588785/)
+- 📚 [Wildberries](https://www.wildberries.ru/catalog/265018191/detail.aspx)
+
+Read
+
+- 📚 [Litres](https://www.litres.ru/book/stella-frakta/rasskazchik-iz-uaitchepela-71176444/)
+- 📚 [Yandex.Books](https://books.yandex.ru/books/xVnnZL9X)
+- 📚 [Mybook](https://mybook.ru/author/stella-frakta/rasskazchik-izuajtchepela/)
+- 📚 [Google Books](https://books.google.ru/books/about/Рассказчик_из_Уайтчеп.html?id=zwcnEQAAQBAJ&redir_esc=y)
+- 📚 [Stroki](https://stroki.mts.ru/sharebook/id=277340_t=TextBook)
+- 📚 [Ridero](https://ridero.ru/books/rasskazchik_iz_uai_tchepela/)
+
+Read more
+
+- ✍️ [Jack the Ripper and the Mother's Womb: Edward Buchan, Birthday and Death. Roger Barber's Prime Suspect](https://dzen.ru/a/Zzy--H4Uv0a_qlJu)
+- ✍️ [Jack the Ripper Identified (No). Genetic Research & Storyteller from Whitechapel](https://dzen.ru/a/ZOiSAzzOCB0kcEwx)
+- 🎵 [Book soundtrack playlist](https://youtube.com/playlist?list=PL4M4dR773ukdUDFpVAa2QuFh1iLDNUxPU)
+- 📌 [Notes & quotes about the book](https://dzen.ru/suite/eb653de4-c7f2-45dc-8482-ff105db1fc64)
+- 📌 [Quotes on Livelib](https://www.livelib.ru/book/1012299593/quotes-rasskazchik-izuaitchepela-stella-frakta)
 
 ## Стелла Фракта “Безымянная скрипка”
 
@@ -330,12 +482,12 @@ Now all rights are reserved, and the novel has been published with original char
 
 ![Unnamed Violin Ridero Cover Official.jpg](/public/img/Unnamed_Violin_Ridero_Cover_Official.jpg)
 
-Victor, a New York nightclub musician, is stalked by a masked man in a cape who wants to take from him the Unnamed Violin of the Architect, an heirloom.
-Everyone has gone mad about the Fractured Star cult, the center of the multivariant Universe, everyone wants to get immortality in the numerous versions of parallel realities—with the violin.
+Victor, a nightclub musician in New York City, is stalked by a man in a mask and a cloak wanting to take from him the Unnamed Violin of the Architect, an heirloom.
+Everyone has gone crazy about the cult of the Fractured Star, the center of the Multiverse, everyone wants to gain eternal life in many variants of parallel worlds—with the violin.
 
 A chain of fatal events—and Victor becomes a player of the cruel Game, falls in love with the stranger, learns family secrets with the power of music.
 
-**Genre:** Thriller / Fantasy / Love story / Modern prose
+**Genre:** Thriller / Visionery fiction / Love story / Modern prose
 
 **Size:** Novel
 
@@ -358,6 +510,7 @@ Read
 Read more
 
 - ✍️ [Grand article about the novel](https://dzen.ru/a/ZK_MdKH4Q1E6QnMw?sid=1350123623212052)
+- ✍️ [Christian Symbolism of the Fractured Star Universe](https://dzen.ru/a/ZrHnwo4pQmK-haPA)
 - 🎵 [Book soundtrack playlist](https://www.youtube.com/playlist?list=PL4M4dR773ukeejAxSt620m2wt4CUNLSqD)
 - 📌 [Quotes on Livelib](https://www.livelib.ru/work/1008770593-bezymyannaya-skripka-stella-frakta)
 - 📌 [Notes & quotes about the Fractured Star Universe](https://dzen.ru/suite/9e7e2412-c8c6-4180-9813-98bf53b18f81)
@@ -371,9 +524,9 @@ Read more
 
 *You had too much freedom*
 
-**Homeless teen Victor, New York, freedom**
+**Homeless teen Victor, New York, bond and freedom**
 
-![Wild and Violent Ridero Cover Official.jpg](/public/img/Wild_and_Violent_Ridero_Cover_Official.jpg)
+![Wild and Violent 2024 Ridero Cover Official.jpg](/public/img/Wild_and_Violent_2024_Ridero_Cover_Official.jpg)
 
 Homeless teenager Victor from the streets of New York accidentally finds himself in the house of a rich couple and finds a family.
 A drama about parent-child relationships, family secrets and sick love.
@@ -388,12 +541,26 @@ Warnings: oedipus complex, narcissistic mother.
 
 <iframe width="942" height="530" src="https://www.youtube.com/embed/c8ue4edCexk" title="Книга Стелла Фракта «Дикий и неистовый» | Бездомный подросток Виктор, Нью-Йорк, свобода | Буктрейлер" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-The book was published in 2022 and withdrawn from sale in 2023 from almost all stores due to libel in violation of the law, but is still available on
+The book was published in 2022 and withdrawn from sale in 2023 from all stores due to libel in violation of the law (scenes involving the minor Victor).
 
-- 📚 [Bookmate](https://bookmate.ru/books/rAgA2pRa)
+In 2024 (after making corrections to Victor's age in some episodes and more than a year of fighting to save Victor), "Wild and Violent" in renewed edition reappeared on the books store shelves and in e-book services.
+
+Buy
+
+- 📚 [Wildberries](https://www.wildberries.ru/catalog/125013167/detail.aspx)
+
+Read
+
+- 📚 [Yandex.Books](https://bookmate.ru/books/rAgA2pRa)
+- 📚 [Stroki](https://stroki.mts.ru/book/dikiy-ineistoviy-280894)
+- 📚 [Ridero](https://ridero.ru/books/dikii_i_neistovyi)
+
+~~Banned~~ 2022 edition
+
 - 📚 [Flibusta](https://flibusta.su/book/129454-dikiy-i-neistovyiy-u-tebya-byilo-slishkom-mnogo-svobodyi/read/)
 - 📚 [Google Books](https://books.google.com/books?id=5vWXEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Стелла+Фракта%22&hl=en&newbks=1&newbks_redir=1&sa=X&ved=2ahUKEwiTn7TElbCEAxUPPxAIHbbeBGUQ6AF6BAgKEAI)
-- or write to the author [pr@stellafracta.com](mailto:pr@stellafracta.com) to get the e-book and save Victor.
+
+![Wild and Violent Ridero Cover Official.jpg](/public/img/Wild_and_Violent_Ridero_Cover_Official.jpg)
 
 Read more
 
@@ -455,6 +622,7 @@ Listen
 
 Read more
 
+- ✍️ [Esotericism in Fiction: "The Harvest" by Stella Fracta](https://dzen.ru/a/ZwjdVLAiwgYp8pxj)
 - 📌 [Quotes on Livelib](https://www.livelib.ru/work/1007553457-sbor-urozhaya-stella-frakta)
 - 🎧 [s01e04 - The Harvest. Alchemy and Apartment, Devil and Masked Wanderer - Есть что сказать с Александрой Undead Podcast](https://music.yandex.ru/album/22291166/track/103927548)
 

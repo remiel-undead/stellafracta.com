@@ -1,15 +1,15 @@
 ---
 layout: default
-description: Писатель, алхимик, подкастер, сомелье. Архитектор Вселенной Расщепленной Звезды.
+description: Писатель, алхимик, философ, подкастер. Архитектор Вселенной Расщепленной Звезды.
 ---
 
-# Александра Undead / Стелла Фракта
+# Стелла Фракта / Александра Undead
 
-Писатель, алхимик, подкастер, сомелье. Архитектор Вселенной Расщепленной Звезды, автор серии шпионских романов про философов, поэтов и лжецов.
+Писатель, алхимик, философ, подкастер. Архитектор Вселенной Расщепленной Звезды, автор серии шпионских романов про алхимиков, поэтов и лжецов.
 
-✈️ [Архитектор и воображаемые друзья - Писатель Стелла Фракта](https://t.me/stellafracta_blog)
+✍️ [Стелла Фракта и воображаемые друзья](https://t.me/stellafracta_blog)
 
-✈️ [Алхимики, поэты и лжецы](https://t.me/alchemists_poets)
+✍️ [Алхимики, поэты и лжецы](https://t.me/alchemists_poets)
 
 ✍️ [Дзен](https://dzen.ru/stellafracta)
 
@@ -19,7 +19,7 @@ description: Писатель, алхимик, подкастер, сомель�
 
 🎧 [Яндекс.Музыка: подкаст «Есть что сказать с Александрой Undead»](https://music.yandex.ru/album/22291166)
 
-📚 [VK про книги](https://vk.com/stellafractabooks)
+📚 [VK про книги и подкаст «Голос писателя»](https://vk.com/stellafractabooks)
 
 🍷 [VK Вокруг винного света и алкоголькультурпросвет](https://vk.com/winewithsasha)
 
@@ -37,9 +37,14 @@ description: Писатель, алхимик, подкастер, сомель�
 
 📧 [pr@stellafracta.com](mailto:pr@stellafracta.com)
 
-# Книги
+# Книги на русском языке
 
 Стелла Фракта (Stella Fracta) — псевдоним писателя Александры Undead, популяризатора алхимии, автора интеллектуальной прозы, шпионских, детективных и мистических романов. Ее книги — философская драма мультивариантного мира, где каждый участник — творец и Архитектор Своей Вселенной, поэт и немного лжец. Искусство и технологии, аналитическая психология и герменевтика, сила воображения и зов бытия — в художественных историях, неотличимых от реальности, каждое слово в которых — часть заклинания, дарящего смыслы.
+
+Проект «Голос писателя» — для тех, кто не хочет читать, но хочет слушать
+
+- 📹 [Смотреть](https://www.youtube.com/playlist?list=PL4M4dR773ukdcBl9Z7EJ9h1gIeoLiMN3j)
+- 🎧 [Слушать](https://stellafractavoice.mave.digital)
 
 Изнанка книжного бизнеса в подкасте «Есть что сказать с Александрой Undead»
 
@@ -115,6 +120,8 @@ description: Писатель, алхимик, подкастер, сомель�
 
 **Объем:** Роман
 
+<iframe width="942" height="530" src="https://www.youtube.com/embed/x_zlLaExCzc" title="Red Bull Racing, Honda, Формула-1 и Замок Альбедо в Японии | Голос писателя - Стелла Фракта" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Купить
 
 - 📚 [Читай-город](https://www.chitai-gorod.ru/product/zamok-albedo-3029014)
@@ -163,6 +170,8 @@ description: Писатель, алхимик, подкастер, сомель�
 **Жанр:** Триллер / Детектив / Приключения / Современная проза
 
 **Объем:** Роман
+
+<iframe width="942" height="530" src="https://www.youtube.com/embed/qn-ln0IN8PU" title="Байесовская игра: Глава 36. Грусть - Отрывок из книги Стеллы Фракта | Голос писателя - Бонус" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Купить
 
@@ -260,6 +269,7 @@ description: Писатель, алхимик, подкастер, сомель�
 - 📚 [Букмейт](https://bookmate.ru/books/BH0pReiY)
 - 📚 [Mybook](https://mybook.ru/author/stella-frakta/rycar-krasavica-chudovisheshut-sesh-serdce-poluchi/)
 - 📚 [Amazon](https://www.amazon.com/Рыцарь-красавица-чудовище-шут-получишь-ebook/dp/B0CRZ2JMPL/)
+- 📚 [Ридеро](https://ridero.ru/books/rycar_krasavica_chudovishe_shut)
 
 Подробнее о книге
 
@@ -271,6 +281,46 @@ description: Писатель, алхимик, подкастер, сомель�
 
 Ранее книга выходила в формате фанфика к сериалу Ганнибал под названием **«Клоун ФБР: Рыцарь, красавица, чудовище, шут»**.
 Сейчас все права защищены, и роман издан с оригинальными персонажами.
+
+## Стелла Фракта «Рассказчик из Уайтчепела»
+
+*Я вообще не детектив. Я преступник-теоретик*
+
+**Рецепт легендарного преступления, серийник, психиатр и полиция Лондона**
+
+![Whitechapel Ridero Cover Official.jpg](/public/img/Whitechapel_Ridero_Cover_Official.jpg)
+
+Доктор Уилсон, профессор судебной психиатрии, назначен консультантом в полицейский участок Уайтчепел в помощь детективам, расследующим дело серийного убийцы Рассказчика, устраивающего кровавые повествовательные инсталляции.
+Судмедэксперт Харт замечает, что Уилсон понимает «рассказ» и говорит на языке преступника – а значит, может его найти.
+Философский роман о наследии алхимиков и творцов – на символьном языке мифо-поэтической герменевтики в прозаичной жестокой реальности современного Лондона.
+
+**Жанр:** Детектив / Триллер / Ужасы / Современная проза
+
+**Объем:** Роман
+
+<iframe width="942" height="530" src="https://www.youtube.com/embed/L2wX8z_JCZ8" title="Рассказчик из Уайтчепела: Глава 32. Рецепт - Отрывок из книги Стеллы Фракта | Голос писателя - Бонус" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Купить
+
+- 📚 [Ozon](https://www.ozon.ru/product/rasskazchik-iz-uaitchepela-frakta-stella-1708588785/)
+- 📚 [Wildberries](https://www.wildberries.ru/catalog/265018191/detail.aspx)
+
+Читать
+
+- 📚 [Литрес](https://www.litres.ru/book/stella-frakta/rasskazchik-iz-uaitchepela-71176444/)
+- 📚 [Яндекс.Книги](https://books.yandex.ru/books/xVnnZL9X)
+- 📚 [Mybook](https://mybook.ru/author/stella-frakta/rasskazchik-izuajtchepela/)
+- 📚 [Google Books](https://books.google.ru/books/about/Рассказчик_из_Уайтчеп.html?id=zwcnEQAAQBAJ&redir_esc=y)
+- 📚 [Строки](https://stroki.mts.ru/sharebook/id=277340_t=TextBook)
+- 📚 [Ридеро](https://ridero.ru/books/rasskazchik_iz_uai_tchepela/)
+
+Подробнее о книге
+
+- ✍️ [Джек-потрошитель и утроба матери: Эдвард Бьюкен, день рождения и смерти. Главный подозреваемый Роджера Барбера](https://dzen.ru/a/Zzy--H4Uv0a_qlJu)
+- ✍️ [Личность Джека-потрошителя установлена (Нет). Генетическое исследование и Рассказчик из Уайтчепела](https://dzen.ru/a/ZOiSAzzOCB0kcEwx)
+- 🎵 [Плейлист с саундтреками к книге](https://youtube.com/playlist?list=PL4M4dR773ukdUDFpVAa2QuFh1iLDNUxPU)
+- 📌 [Подборка с цитатами и информацией о книге](https://dzen.ru/suite/eb653de4-c7f2-45dc-8482-ff105db1fc64)
+- 📌 [Цитаты на Livelib](https://www.livelib.ru/book/1012299593/quotes-rasskazchik-izuaitchepela-stella-frakta)
 
 ## Стелла Фракта «Безымянная скрипка»
 
@@ -308,6 +358,7 @@ description: Писатель, алхимик, подкастер, сомель�
 Подробнее о книге
 
 - ✍️ [Большая статья о романе](https://dzen.ru/a/ZK_MdKH4Q1E6QnMw?sid=1350123623212052)
+- ✍️ [Христианский символизм Вселенной Ращепленной Звезды](https://dzen.ru/a/ZrHnwo4pQmK-haPA)
 - 🎵 [Плейлист с саундтреками к книге](https://www.youtube.com/playlist?list=PL4M4dR773ukeejAxSt620m2wt4CUNLSqD)
 - 📌 [Цитаты на Livelib](https://www.livelib.ru/work/1008770593-bezymyannaya-skripka-stella-frakta)
 - 📌 [Подборка цитат и интересных фактов по Вселенной Расщепленной Звезды](https://dzen.ru/suite/9e7e2412-c8c6-4180-9813-98bf53b18f81)
@@ -317,9 +368,9 @@ description: Писатель, алхимик, подкастер, сомель�
 
 *У тебя было слишком много свободы*
 
-**Бездомный подросток Виктор, Нью-Йорк, свобода**
+**Бездомный подросток Виктор, Нью-Йорк, оковы и свобода**
 
-![Wild and Violent Ridero Cover Official.jpg](/public/img/Wild_and_Violent_Ridero_Cover_Official.jpg)
+![Wild and Violent 2024 Ridero Cover Official.jpg](/public/img/Wild_and_Violent_2024_Ridero_Cover_Official.jpg)
 
 Бездомный подросток Виктор с улиц Нью-Йорка случайно попадает в дом к богатой паре и обретает семью.
 Драма про детско-родительские отношения, фамильные тайны и больную любовь.
@@ -334,12 +385,26 @@ description: Писатель, алхимик, подкастер, сомель�
 
 <iframe width="942" height="530" src="https://www.youtube.com/embed/c8ue4edCexk" title="Книга Стелла Фракта «Дикий и неистовый» | Бездомный подросток Виктор, Нью-Йорк, свобода | Буктрейлер" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Книга была издана в 2022 и снята с продажи в 2023 практически из всех магазинов из-за клеветы в нарушении УК РФ, но по-прежнему доступна на
+Книга была издана в 2022 и снята с продажи в 2023 из всех магазинов из-за клеветы в нарушении УК РФ (сцены с участием несовершеннолетнего Виктора).
 
-- 📚 [Букмейт](https://bookmate.ru/books/rAgA2pRa)
+В 2024 году (после внесения исправлений возраста в некоторых эпизодах и больше года борьбы за спасение Виктора) «Дикий и неистовый» в обновленном издании вновь появился на полках и в книжных сервисах.
+
+Купить
+
+- 📚 [Wildberries](https://www.wildberries.ru/catalog/125013167/detail.aspx)
+
+Читать
+
+- 📚 [Яндекс.Книги](https://bookmate.ru/books/rAgA2pRa)
+- 📚 [Строки](https://stroki.mts.ru/book/dikiy-ineistoviy-280894)
+- 📚 [Ридеро](https://ridero.ru/books/dikii_i_neistovyi)
+
+~~Запрещенное~~ издание 2022
+
 - 📚 [Флибуста](https://flibusta.su/book/129454-dikiy-i-neistovyiy-u-tebya-byilo-slishkom-mnogo-svobodyi/read/)
 - 📚 [Google Books](https://books.google.com/books?id=5vWXEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Стелла+Фракта%22&hl=en&newbks=1&newbks_redir=1&sa=X&ved=2ahUKEwiTn7TElbCEAxUPPxAIHbbeBGUQ6AF6BAgKEAI)
-- или пишите автору [pr@stellafracta.com](mailto:pr@stellafracta.com), чтобы получить электронную книгу и спасти Виктора.
+
+![Wild and Violent Ridero Cover Official.jpg](/public/img/Wild_and_Violent_Ridero_Cover_Official.jpg)
 
 Подробнее о книге
 
@@ -397,6 +462,7 @@ description: Писатель, алхимик, подкастер, сомель�
 
 Подробнее о книге
 
+- ✍️ [Эзотерика в художественной литературе: «Сбор урожая» Стеллы Фракта](https://dzen.ru/a/ZwjdVLAiwgYp8pxj)
 - 📌 [Цитаты на Livelib](https://www.livelib.ru/work/1007553457-sbor-urozhaya-stella-frakta)
 - 🎧 [s01e04 - Сбор урожая. Алхимия и квартира, Дьявол и странник в маске - Подкаст Есть что сказать с Александрой Undead](https://music.yandex.ru/album/22291166/track/103927548)
 
@@ -472,6 +538,8 @@ description: Писатель, алхимик, подкастер, сомель�
 - 📚 [Amazon](https://www.amazon.com/dp/B0BHZ9PBZY)
 - 📚 [Ridero](https://ridero.ru/books/chumnaya_maska/)
 
+# Книги на английском языке / переводы
+
 ## Stella Fracta “Incredible Spy Detective”
 
 *Leave every Hope you who in Enter*
@@ -506,6 +574,121 @@ Confrontation of friends and foes, forces of order and chaos, reason and im
 - 📚 [Ridero](https://ridero.ru/books/incredible_spy_detective/)
 
 Книга является англоязычным переводом романа **«Невероятный шпионский детектив»**, переводчик Sigurd the Dane (Сигурд Датчанин), редактор Alexandra Undead (Александра Undead).
+
+## Stella Fracta "Albedo Castle"
+
+*He’s doing everything right. Leave it to others to do it correctly*
+
+**Spies, alchemists, teachers and students, Formula One in Japan**
+
+![Albedo Castle Eng Ridero Official.jpg](/public/img/Albedo_Castle_Eng_Ridero_Official.jpg)
+
+Amid the racing season, the mechanic of the champion team is attacked, ahead is the Grand Prix at the Japanese circuit.
+The mechanic is an undercover MI6 agent, his archenemy is a Russian spy who returned from the dead to take revenge.
+The power of dreams, the car manufacturers’ technology of the future, alchemists, Poets, and liars will meet again to play a dangerous secret Game — in plain sight of the world.
+
+The second stage of the Great Work, albedo, the sequel to Incredible Spy Detective.
+
+**Genre:** Detective / Thriller / Spy novel / Philosophical novel / Modern prose
+
+**Size:** Novel
+
+Купить
+
+- 📚 [Ozon](https://www.ozon.ru/product/albedo-castle-1912348151/)
+- 📚 [Wildberries](https://www.wildberries.ru/catalog/346863547/detail.aspx)
+
+Читать
+
+- 📚 [Amazon](http://www.amazon.com/dp/B0DZCTRSWN)
+- 📚 [Apple Books](https://books.apple.com/gb/book/albedo-castle/id6742870741)
+- 📚 [Яндекс.Книги](https://books.yandex.ru/books/Etoj2IVs)
+- 📚 [Литрес](http://www.litres.ru/book/stella-fracta/albedo-castle-71730193/)
+- 📚 [Mybook](https://mybook.ru/author/stella-fracta/albedo-castle/)
+- 📚 [Строки](https://stroki.mts.ru/book/albedo-castle-303617)
+- 📚 [Ридеро](https://ridero.ru/books/albedo_castle/)
+
+Книга является англоязычным переводом романа “**Замок Альбедо”**, переводчик Alexandra Undead (Александра Undead).
+
+## Stella Fracta "The Knight, the Beauty, the Beast, the Fool"
+
+*Eat a heart—gain love*
+
+**Detective, murderous love, FBI and Baltimore serial killers**
+
+![Knight, Beauty, Beast, Fool Eng Ridero Official.jpg](/public/img/Knight_Beauty_Beast_Fool_Eng_Ridero_Official.jpg)
+
+The Heartthrob, a serial killer, is terrorizing a Baltimore neighborhood.
+A consultant psychiatrist assists the investigation, a fatal passion erupts between his patient, a golden-haired singer, and a young FBI agent.
+Someone is leaving clues for the profiler, who uses the method of active imagination; a taciturn bodybuilder living next door becomes the keeper of secrets.
+Eat a heart — gain love…
+Such is the title of the tragedy about a dragon who killed princesses and searched for a friend.
+
+**Genre:** Detective / Thriller / Horror / Modern prose
+
+**Size:** Novel
+
+Купить
+
+- 📚 [Wildberries](https://www.wildberries.ru/catalog/346870809/detail.aspx)
+
+Читать
+
+- 📚 [Amazon](http://www.amazon.com/dp/B0DZCTK5T2)
+- 📚 [Apple Books](https://books.apple.com/gb/book/the-knight-the-beauty-the-beast-the-fool-eat-a-heart-gain-love/id6742870778)
+- 📚 [Яндекс.Книги](https://books.yandex.ru/books/wPAhOnZ2)
+- 📚 [Литрес](https://www.litres.ru/book/stella-fracta/the-knight-the-beauty-the-beast-the-fool-eat-a-heart-gain-lo-71730268/)
+- 📚 [Mybook](https://mybook.ru/author/stella-fracta/the-knight-the-beauty-the-beast-thefool-eat-aheart/)
+- 📚 [Строки](https://stroki.mts.ru/book/the-knight-the-beauty-the-beast-thefool-303618)
+- 📚 [Ридеро](https://ridero.ru/books/the_knight_the_beauty_the_beast_the_fool/)
+
+Книга является англоязычным переводом романа “**Рыцарь, красавица, чудовище, шут”**, переводчик Alexandra Undead (Александра Undead).
+
+## Прочие короткие романы / новеллы
+
+**Stella Fracta "Home All Alone"**
+
+To learn about a family, look at their child. Hannibal Lecter is sixteen, and for Christmas he is left to look after six-year-old Will Graham, eleven-year-olds Allex Serret, William Gustavsson and Victor Myer, and twelve-year-olds Neil Blake and Dylan Vermillion at the von Reichenberg family home.
+
+A fanfic on 'Hannibal' x 'The Knight, the Beauty, the Beast, the Fool' (Stella Fracta) x 'Wild and Violent' (Stella Fracta).
+
+- 📚 [Wattpad](https://www.wattpad.com/story/387506300-home-all-alone)
+- 📚 [Ao3](https://archiveofourown.org/works/61895815)
+- 📚 [Ficbook - Russian Version - Одни дома](https://ficbook.net/readfic/13017720)
+
+**Stella Fracta "Shadows of Florence"**
+
+Hannibal Lecter, under the name of Dr. Roman Fell, curator of the Capponi Library, is invited to the art studio of Albina Lupo, a Florentine gallery owner.
+He is perceptive enough to realize that the model, Richard, her young lover, is not who he claims to be.
+
+Fanfic on 'Hannibal' (Thomas Harris) x 'Incredible Spy Detective' (Stella Fracta).
+
+- 📚 [Wattpad](https://www.wattpad.com/story/387581425-shadows-of-florence)
+- 📚 [Ao3](https://archiveofourown.org/works/61930099)
+- 📚 [Ficbook - Russian Version - Тени Флоренции](https://ficbook.net/readfic/13397866)
+
+**Stella Fracta "Glorious Evolution"**
+
+What is the heart for, if it only hurts?
+What is the infirm, fragile, vulnerable body for, if the only thing predestined to it is--fading, decaying, death?
+Viktor knows by his own experience how the loss of what was once alive, but died, tortures the soul and the body.
+But what if it can be brought back?
+To meddle in the confrontation of chaos and order, to comprehend the code of the universe in the moment of the final flash-in the name of progress and glorious evolution...
+A scientist who dares to take over the laws of nature pays a high price.
+
+- 📚 [Wattpad](https://www.wattpad.com/story/387361710-glorious-evolution)
+- 📚 [Ao3](https://archiveofourown.org/works/61864324)
+- 📚 [Ficbook Russian Version - Великая Эволюция](https://ficbook.net/readfic/11966157)
+
+**Stella Fracta "Letters to Mechanical Heart"**
+
+Viktor has been writing letters to his student friend, separated from him by the tragic circumstances, for years.
+The letters never reach the address; in the meantime, Alex de Blancs has immersed herself into the depths of Zaun's slums in search of answers to her questions.
+Prequel to 'Glorious Evolution' by Stella Fracta.
+
+- 📚 [Wattpad](https://www.wattpad.com/story/387410456-letters-to-mechanical-heart)
+- 📚 [Ao3](https://archiveofourown.org/works/61864972)
+- 📚 [Ficbook Russian Version - Письма механическому сердцу](https://ficbook.net/readfic/12085817)
 
 # Подкаст «Голос писателя» [RU]
 
