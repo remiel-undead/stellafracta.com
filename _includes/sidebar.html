@@ -2,11 +2,14 @@
     <div class="container sidebar-sticky">
         <div class="sidebar-about">
             <h1>
-                <a href="/">{{ site.title }}</a>
+                <a href="{{ site.sidebar[page.lang].url }}">{{ site.sidebar[page.lang].title }}</a>
             </h1>
-            <p class="lead">{{ page.description }}</p>
+            <p class="lead">{{ site.sidebar[page.lang].description }}</p>
         </div>
         <nav class="sidebar-nav">
+            {% for item in site.sidebar[page.lang].contents %}
+            <a class="sidebar-nav-item" href="{{ item.link }}">{{ item.title }}</a>
+            {% endfor %}
             <p class="sidebar-nav-item">
                 <a href="/"{% if page.url == '/' %} class="active"{% endif %}>En</a> / <a href="/ru.html"{% if page.url == '/ru.html' %} class="active"{% endif %}>Ru</a>
             </p>

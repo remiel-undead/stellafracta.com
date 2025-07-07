@@ -1,5 +1,35 @@
-# Site settings
-title: Alexandra Undead / Stella Fracta
-
 # Build settings
 markdown: kramdown
+
+# Sidebar
+sidebar:
+  en:
+    title: Stella Fracta
+    description: Writer, alchemist, philosopher, podcaster. Architect of the Fractured Star Universe.
+    url: /
+    contents:
+    - title: Books in English
+      link: /#books_in_english
+    - title: Books in Russian
+      link: /#books_in_russian
+    - title: Podcasts
+      link: /#podcasts
+    - title: Wine
+      link: /#wine
+    - title: Other
+      link: /#other
+  ru:
+    title: Стелла Фракта
+    description: Писатель, алхимик, философ, подкастер. Архитектор Вселенной Расщепленной Звезды.
+    url: /ru.html
+    contents:
+      - title: Книги на русском
+        link: /ru.html#books_in_russian
+      - title: Книги на английском
+        link: /ru.html#books_in_english
+      - title: Подкасты
+        link: /ru.html#podcasts
+      - title: Вино
+        link: /ru.html#wine
+      - title: Разное
+        link: /ru.html#other

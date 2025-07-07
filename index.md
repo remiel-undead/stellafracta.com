@@ -1,6 +1,6 @@
 ---
 layout: default
-description: Writer, alchemist, philosopher, podcaster. Architect of the Fractured Star Universe.
+lang: en
 ---
 
 # Stella Fracta / Alexandra Undead
@@ -37,6 +37,7 @@ Writer, alchemist, philosopher, podcaster. Architect of the Fractured Star Unive
 
 📧 [pr@stellafracta.com](mailto:pr@stellafracta.com)
 
+<p id="books_in_english"></p>
 # Books in English / Translations
 
 Stella Fracta is the pen name of the Russian writer Alexandra Undead, an alchemy popularizer, the author of intellectual prose, spy, detective and mystical novels.
@@ -215,6 +216,7 @@ Prequel to 'Glorious Evolution' by Stella Fracta.
 - 📚 [Ao3](https://archiveofourown.org/works/61864972)
 - 📚 [Ficbook Russian Version - Письма механическому сердцу](https://ficbook.net/readfic/12085817)
 
+<p id="books_in_russian"></p>
 # Books in Russian
 
 ## Стелла Фракта “Невероятный шпионский детектив”
@@ -706,6 +708,7 @@ Read
 - 📚 [Amazon](https://www.amazon.com/dp/B0BHZ9PBZY)
 - 📚 [Ridero](https://ridero.ru/books/chumnaya_maska/)
 
+<p id="podcasts"></p>
 # **“Голос писателя” Podcast [RU]**
 
 **English Title:** “Writer's Voice”
@@ -772,6 +775,7 @@ Alexandra has something to say. A podcast in Russian about communication with th
 
 📧 [pr@stellafracta.com](mailto:pr@stellafracta.com)
 
+<p id="wine"></p>
 # **Alcohol Culture Awareness | winewithsasha Wine Education Project**
 
 I develop the alcohol drinking culture, get you drunk, entertain you, educate you.
@@ -786,6 +790,7 @@ Wine seminars, tastings, bar, parties.
 
 📹 [YouTube – Bartenders and Bars, Alcohol Culture, Podcast and More](https://www.youtube.com/playlist?list=PL4M4dR773ukeUpi90jt_yXtf14ldVfh3c)
 
+<p id="other"></p>
 # **Other**
 
 ## **Voiceover, audiobooks, booktrailers**
