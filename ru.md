@@ -69,7 +69,9 @@ lang: ru
 
 **Объем:** Роман
 
+<div class="video-container">
 <iframe width="942" height="530" src="https://www.youtube.com/embed/DZDpgD6S3mw" title="Стелла Фракта «Невероятный шпионский детектив» | Поэты и лжецы, алхимия, Данте, Инферно | Буктрейлер" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Купить
 
@@ -121,7 +123,9 @@ lang: ru
 
 **Объем:** Роман
 
+<div class="video-container">
 <iframe width="942" height="530" src="https://www.youtube.com/embed/x_zlLaExCzc" title="Red Bull Racing, Honda, Формула-1 и Замок Альбедо в Японии | Голос писателя - Стелла Фракта" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Купить
 
@@ -172,7 +176,9 @@ lang: ru
 
 **Объем:** Роман
 
+<div class="video-container">
 <iframe width="942" height="530" src="https://www.youtube.com/embed/qn-ln0IN8PU" title="Байесовская игра: Глава 36. Грусть - Отрывок из книги Стеллы Фракта | Голос писателя - Бонус" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Купить
 
@@ -257,7 +263,9 @@ lang: ru
 
 **Объем:** Роман
 
+<div class="video-container">
 <iframe width="942" height="530" src="https://www.youtube.com/embed/Z97J45DIHeM" title="Стелла Фракта «Клоун ФБР: Рыцарь, красавица, чудовище, шут» | Детектив, сериал Ганнибал | Буктрейлер" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Купить
 
@@ -299,7 +307,9 @@ lang: ru
 
 **Объем:** Роман
 
+<div class="video-container">
 <iframe width="942" height="530" src="https://www.youtube.com/embed/L2wX8z_JCZ8" title="Рассказчик из Уайтчепела: Глава 32. Рецепт - Отрывок из книги Стеллы Фракта | Голос писателя - Бонус" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Купить
 
@@ -340,7 +350,9 @@ lang: ru
 
 **Объем:** Роман
 
+<div class="video-container">
 <iframe width="942" height="530" src="https://www.youtube.com/embed/LfnrzNSePEM" title="Стелла Фракта «Безымянная скрипка» | Трагедия, депрессия, одержимость, музыка, Нью-Йорк | Буктрейлер" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Купить
 
@@ -384,7 +396,9 @@ lang: ru
 
 **Объем:** Роман
 
+<div class="video-container">
 <iframe width="942" height="530" src="https://www.youtube.com/embed/c8ue4edCexk" title="Книга Стелла Фракта «Дикий и неистовый» | Бездомный подросток Виктор, Нью-Йорк, свобода | Буктрейлер" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Книга была издана в 2022 и снята с продажи в 2023 из всех магазинов из-за клеветы в нарушении УК РФ (сцены с участием несовершеннолетнего Виктора).
 
@@ -435,7 +449,9 @@ lang: ru
 
 **Объем:** Новелла / Короткий роман
 
+<div class="video-container">
 <iframe width="942" height="530" src="https://www.youtube.com/embed/2QezpeVKkx4" title="Книга Стелла Фракта «Сбор урожая» | Вампир, ведьма, дьявол и странник в замке | Буктрейлер" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Купить
 
@@ -522,7 +538,9 @@ lang: ru
 
 **Объем:** Новелла / Короткий роман
 
+<div class="video-container">
 <iframe width="942" height="530" src="https://www.youtube.com/embed/MekwyvebXWs" title="Книга Стелла Фракта «Чумная маска» | БДСМ, актер в чумной маске и страх отношений | Буктрейлер" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Купить
 
