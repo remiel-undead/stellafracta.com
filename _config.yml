@@ -1,5 +1,7 @@
 # Build settings
 markdown: kramdown
+permalink: /blog/:year-:month-:day-:title.html
+excerpt_separator: <!--more-->
 
 # Sidebar
 sidebar:
@@ -18,6 +20,8 @@ sidebar:
       link: /#wine
     - title: Other
       link: /#other
+    - title: Blog
+      link: /blog.html
   ru:
     title: Стелла Фракта
     description: Писатель, алхимик, философ, подкастер. Архитектор Вселенной Расщепленной Звезды.
@@ -33,3 +37,5 @@ sidebar:
         link: /ru.html#wine
       - title: Разное
         link: /ru.html#other
+      - title: Блог
+        link: /blog.html

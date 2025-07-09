@@ -1,13 +1,14 @@
+{% assign lang = page.lang | default: "en" %}
 <div class="sidebar">
     <div class="container sidebar-sticky">
         <div class="sidebar-about">
             <h1>
-                <a href="{{ site.sidebar[page.lang].url }}">{{ site.sidebar[page.lang].title }}</a>
+                <a href="{{ site.sidebar[lang].url }}">{{ site.sidebar[lang].title }}</a>
             </h1>
-            <p class="lead">{{ site.sidebar[page.lang].description }}</p>
+            <p class="lead">{{ site.sidebar[lang].description }}</p>
         </div>
         <nav class="sidebar-nav">
-            {% for item in site.sidebar[page.lang].contents %}
+            {% for item in site.sidebar[lang].contents %}
             <a class="sidebar-nav-item" href="{{ item.link }}">{{ item.title }}</a>
             {% endfor %}
             <p class="sidebar-nav-item">
