@@ -79,13 +79,14 @@ Buy
 
 - 📚 [Ozon](https://www.ozon.ru/product/incredible-spy-detective-poets-and-liars-net-avtora-1241278311/)
 - 📚 [Wildberries](https://www.wildberries.ru/catalog/182077044/detail.aspx)
+- 📚 [Yandex.Market](https://market.yandex.ru/card/incredible-spy-detective/103813983746)
 
 Read
 
 - 📚 [Amazon](http://www.amazon.com/dp/B0CKW3YHD6)
 - 📚 [Goodreads](https://www.goodreads.com/book/show/199392660-incredible-spy-detective)
 - 📚 [Apple Books](https://books.apple.com/se/book/incredible-spy-detective-poets-and-liars/id6469199835)
-- 📚 [Bookmate](https://bookmate.ru/books/iEwSrmVh)
+- 📚 [Yandex.Books](https://bookmate.ru/books/iEwSrmVh)
 - 📚 [Litres](https://www.litres.ru/book/stella-fracta/incredible-spy-detective-poets-and-liars-69824017/)
 - 📚 [Mybook](https://mybook.ru/author/stella-fracta/incredible-spy-detective-poets-and-liars/)
 - 📚 [Stroki](https://stroki.mts.ru/book/incredible-spy-detective-poets-and-liars-206979)
@@ -117,18 +118,19 @@ The second stage of the Great Work, albedo, the sequel to Incredible Spy Detecti
 
 Buy
 
-- 📚 [Ozon](https://www.ozon.ru/product/albedo-castle-1912348151/)
-- 📚 [Wildberries](https://www.wildberries.ru/catalog/346863547/detail.aspx)
+- 📚 [Ozon](https://www.ozon.ru/context/detail/id/2241437462/)
+- 📚 [Wildberries](https://www.wildberries.ru/catalog/437305164/detail.aspx)
+- 📚 [Yandex.Market](https://market.yandex.ru/card/albedo-castle/4429982128)
 
 Read
 
-- 📚 [Amazon](http://www.amazon.com/dp/B0DZCTRSWN)
-- 📚 [Apple Books](https://books.apple.com/gb/book/albedo-castle/id6742870741)
-- 📚 [Books.Yandex](https://books.yandex.ru/books/Etoj2IVs)
-- 📚 [Litres](http://www.litres.ru/book/stella-fracta/albedo-castle-71730193/)
-- 📚 [Mybook](https://mybook.ru/author/stella-fracta/albedo-castle/)
-- 📚 [Stroki](https://stroki.mts.ru/book/albedo-castle-303617)
-- 📚 [Ridero](https://ridero.ru/books/albedo_castle/)
+- 📚 [Amazon](http://www.amazon.com/dp/B0FBWW1N75)
+- 📚 [Apple Books](https://books.apple.com/es/book/albedo-castle/id6746860132)
+- 📚 [Books.Yandex](https://books.yandex.ru/books/Znw79wzz)
+- 📚 [Litres](http://www.litres.ru/book/stella-fracta/albedo-castle-72068476/)
+- 📚 [Mybook](https://mybook.ru/author/stella-fracta/albedo-castle-2/)
+- 📚 [Stroki](https://stroki.mts.ru/book/albedo-castle-320792)
+- 📚 [Ridero](https://ridero.ru/books/albedo_castle_1/)
 
 The book is an English translation of the novel “**Замок Альбедо”** from Russian. Translator: Alexandra Undead.
 
@@ -156,7 +158,9 @@ Such is the title of the tragedy about a dragon who killed princesses and search
 
 Buy
 
+- 📚 [Ozon](https://www.ozon.ru/product/the-knight-the-beauty-the-beast-the-fool-eat-a-heart-gain-love-1912358290/)
 - 📚 [Wildberries](https://www.wildberries.ru/catalog/346870809/detail.aspx)
+- 📚 [Yandex.Market](https://market.yandex.ru/card/the-knight-the-beauty-the-beast-the-fool/103804321866)
 
 Read
 
@@ -238,11 +242,12 @@ Buy
 - 📚 [Ozon](https://ozon.ru/t/RK9Vb7j)
 - 📚 [Wildberries](https://www.wildberries.ru/catalog/152741610/detail.aspx)
 - 📚 [Book24](https://book24.ru/product/neveroyatnyy-shpionskiy-detektiv-6777950/)
+- 📚 [Yandex.Market](https://market.yandex.ru/card/neveroyatnyy-shpionskiy-detektiv/103813630468)
 
 Read
 
 - 📚 [Litres](http://www.litres.ru/book/stella-frakta/neveroyatnyy-shpionskiy-detektiv-poety-i-lzhecy-69017593/)
-- 📚 [Bookmate](https://bookmate.ru/books/NUDl0Rkm)
+- 📚 [Yandex.Books](https://bookmate.ru/books/NUDl0Rkm)
 - 📚 [Mybook](https://mybook.ru/author/stella-frakta/neveroyatnyj-shpionskij-detektiv-poety-i-lzhecy/)
 - 📚 [Stroki](https://stroki.mts.ru/book/neveroyatniy-shpionskiy-detektiv-poety-i-lzhetsy-226305)
 - 📚 [Amazon](http://www.amazon.com/dp/B0BZW5KSCR)
@@ -277,21 +282,19 @@ Stella Fracta & “Incredible Spy Detective” novel at the international book f
 
 Buy
 
-- 📚 [Chitai-gorod](https://www.chitai-gorod.ru/product/zamok-albedo-3029014)
-- 📚 [Bookvoed](https://www.bookvoed.ru/book?id=13661200)
 - 📚 [Ozon](https://www.ozon.ru/product/zamok-albedo-frakta-stella-1151103000/)
 - 📚 [Wildberries](https://www.wildberries.ru/catalog/170990469/detail.aspx)
-- 📚 [Book24](https://book24.ru/product/zamok-albedo-6838006/)
+- 📚 [Yandex.Market](https://market.yandex.ru/card/zamok-albedo/4410852497)
 
 Read
 
-- 📚 [Litres](https://www.litres.ru/book/stella-frakta/zamok-albedo-69507322/)
-- 📚 [Bookmate](https://bookmate.ru/books/WlRgKG27)
-- 📚 [Mybook](https://mybook.ru/author/stella-frakta/zamok-albedo/)
-- 📚 [Stroki](https://stroki.mts.ru/book/zamok-albedo-219297)
-- 📚 [Amazon](https://www.amazon.com/Замок-Альбедо-Russian-Фракта-Стелла-ebook/dp/B0CDH14BXX/)
-- 📚 [Apple Books](https://books.apple.com/de/book/замок-альбедо/id6457995691)
-- 📚 [Ridero](https://ridero.ru/books/zamok_albedo/)
+- 📚 [Litres](https://www.litres.ru/book/stella-frakta/zamok-albedo-72068011/)
+- 📚 [Yandex.Books](https://books.yandex.ru/books/thmYgEPO)
+- 📚 [Mybook](https://mybook.ru/author/stella-frakta/zamok-albedo-2/)
+- 📚 [Stroki](https://stroki.mts.ru/book/zamok-albedo-320433)
+- 📚 [Amazon](http://www.amazon.com/dp/B0FBWXV3BY)
+- 📚 [Apple Books](https://books.apple.com/us/book/замок-альбедо/id6747088297)
+- 📚 [Ridero](https://ridero.ru/books/zamok_albedo_1)
 
 Read more
 
@@ -335,12 +338,13 @@ Buy
 
 - 📚 [Ozon](https://www.ozon.ru/product/bayesovskaya-igra-frakta-stella-1270599493/)
 - 📚 [Wildberries](https://www.wildberries.ru/catalog/186841713/detail.aspx)
+- 📚 [Yandex.Market](https://market.yandex.ru/card/bayyesovskaya-igra/103813953462)
 
 Read
 
 - 📚 [Litres](https://www.litres.ru/book/stella-frakta/bayesovskaya-igra-69912820/)
 - 📚 [Mybook](https://mybook.ru/author/stella-frakta/bajesovskayaigra/)
-- 📚 [Bookmate](https://bookmate.ru/books/QQPzLmc9)
+- 📚 [Yandex.Books](https://bookmate.ru/books/QQPzLmc9)
 - 📚 [Stroki](https://stroki.mts.ru/book/bayesovskayaigra-219451)
 - 📚 [Amazon](http://www.amazon.com/dp/B0CM99F34Q)
 - 📚 [Ridero](https://ridero.ru/books/baiesovskaya_igra/)
@@ -379,11 +383,12 @@ Buy
 
 - 📚 [Ozon](https://www.ozon.ru/product/koshki-ne-pyut-vino-frakta-stella-1252563050/)
 - 📚 [Wildberries](https://www.wildberries.ru/catalog/183264802/detail.aspx)
+- 📚 [Yandex.Market](https://market.yandex.ru/card/koshki-ne-pyut-vino/103813607097)
 
 Read
 
 - 📚 [Litres](http://www.litres.ru/book/stella-frakta/koshki-ne-put-vino-69846157/)
-- 📚 [Bookmate](https://bookmate.ru/books/LetMpq52)
+- 📚 [Yandex.Books](https://bookmate.ru/books/LetMpq52)
 - 📚 [Mybook](https://mybook.ru/author/stella-frakta/koshki-nepyutvino/)
 - 📚 [Amazon](https://www.amazon.com/%D0%9A%D0%BE%D1%88%D0%BA%D0%B8-%D0%BD%D0%B5-%D0%BF%D1%8C%D1%8E%D1%82-%D0%B2%D0%B8%D0%BD%D0%BE-Russian-%D0%A4%D1%80%D0%B0%D0%BA%D1%82%D0%B0-%D0%A1%D1%82%D0%B5%D0%BB%D0%BB%D0%B0-ebook/dp/B0CL97N8RR/)
 - 📚 [Ridero](https://ridero.ru/books/koshki_ne_pyut_vino/)
@@ -420,7 +425,7 @@ Buy
 Read
 
 - 📚 [Litres](https://www.litres.ru/book/stella-frakta/rycar-krasavica-chudovische-shut-sesh-serdce-poluchish-lubov-70241653/)
-- 📚 [Bookmate](https://bookmate.ru/books/BH0pReiY)
+- 📚 [Yandex.Books](https://bookmate.ru/books/BH0pReiY)
 - 📚 [Mybook](https://mybook.ru/author/stella-frakta/rycar-krasavica-chudovisheshut-sesh-serdce-poluchi/)
 - 📚 [Amazon](https://www.amazon.com/Рыцарь-красавица-чудовище-шут-получишь-ebook/dp/B0CRZ2JMPL/)
 - 📚 [Ридеро](https://ridero.ru/books/rycar_krasavica_chudovishe_shut)
@@ -511,12 +516,13 @@ Buy
 
 - 📚 [Ozon](https://www.ozon.ru/product/bezymyannaya-skripka-frakta-stella-1467492004/)
 - 📚 [Wildberries](https://www.wildberries.ru/catalog/169106900/detail.aspx)
+- 📚 [Yandex.Market](https://market.yandex.ru/card/bezymyannaya-skripka/103813593236)
 
 Read
 
 - 📚 [Litres](https://litres.ru/69435889)
 - 📚 [Mybook](https://mybook.ru/author/stella-frakta/bezymyannaya-skripka/)
-- 📚 [Bookmate](https://bookmate.ru/books/IMLgL0hP)
+- 📚 [Yandex.Books](https://bookmate.ru/books/IMLgL0hP)
 - 📚 [Apple Books](https://books.apple.com/de/book/безымянная-скрипка/id6451274315)
 - 📚 [Amazon](https://www.amazon.com/Безымянная-скрипка-Russian-Фракта-Стелла-ebook/dp/B0CBQ37NM5/)
 - 📚 [Ridero](https://ridero.ru/books/bezymyannaya_skripka/)
@@ -621,12 +627,13 @@ Buy
 - 📚 [Ozon](https://www.ozon.ru/product/sbor-urozhaya-739440493/)
 - 📚 [Wildberries](https://www.wildberries.ru/catalog/108395870/detail.aspx)
 - 📚 [Book24](https://book24.ru/product/sbor-urozhaya-6750788/)
+- 📚 [Yandex.Market](https://market.yandex.ru/card/sbor-urozhaya/103812321239)
 
 Read
 
 - 📚 [Litres](https://www.litres.ru/stella-frakta/sbor-urozhaya/)
 - 📚 [Mybook](https://mybook.ru/author/stella-frakta/sbor-urozhaya/)
-- 📚 [Bookmate](https://bookmate.ru/authors/vKl5hLah)
+- 📚 [Yandex.Books](https://bookmate.ru/authors/vKl5hLah)
 - 📚 [Stroki](https://stroki.mts.ru/book/sbor-urozhaya-195349)
 - 📚 [Amazon](http://www.amazon.com/dp/B0BHDPCQN5)
 - 📚 [Apple Books](https://books.apple.com/de/book/сбор-урожая/id6443732967)
@@ -669,11 +676,12 @@ Buy
 
 - 📚 [Ozon](https://www.ozon.ru/product/lunnyy-svet-787329244/)
 - 📚 [Wildberries](https://www.wildberries.ru/catalog/134589208/detail.aspx)
+- 📚 [Yandex.Market](https://market.yandex.ru/card/lunnyy-svet/103814756376)
 
 Read
 
 - 📚 [Litres](http://www.litres.ru/stella-frakta/lunnyy-svet-pozvol-mne-ostatsya/)
-- 📚 [Bookmate](https://bookmate.ru/books/ofBznLUZ)
+- 📚 [Yandex.Books](https://bookmate.ru/books/ofBznLUZ)
 - 📚 [Mybook](https://mybook.ru/author/stella-frakta/lunnyjsvet-pozvol-mne-ostatsya/)
 - 📚 [Stroki](https://stroki.mts.ru/book/lunnyysvet-pozvol-mne-ostatsya-232480)
 - 📚 [Google Books](https://books.google.com/books?id=sXCbEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Стелла+Фракта%22&hl=en&newbks=1&newbks_redir=1&sa=X&ved=2ahUKEwjq3tyonLCEAxWmHBAIHQjlAKsQ6AF6BAgHEAI)
