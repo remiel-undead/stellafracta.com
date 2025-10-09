@@ -5,7 +5,7 @@ lang: en
 
 # Stella Fracta / Alexandra Undead
 
-Writer, alchemist, philosopher, podcaster. Architect of the Fractured Star Universe, author of spy novel series about alchemists, poets and liars.
+Writer, traditionalist philosopher, alchemist, podcaster. Architect of the Fractured Star Universe, author of spy novel series about alchemists, poets and liars.
 
 ✍️ [Telegram (Books & Blog)](https://t.me/stellafracta_blog)
 
@@ -40,9 +40,8 @@ Writer, alchemist, philosopher, podcaster. Architect of the Fractured Star Unive
 <p id="books_in_english"></p>
 # Books in English / Translations
 
-Stella Fracta is the pen name of the Russian writer Alexandra Undead, an alchemy popularizer, the author of intellectual prose, spy, detective and mystical novels.
-Her books are the philosophical drama of a multiverse world, where each participant is a creator and the Architect of One’s Universe, a poet, and a bit of a liar.
-Arts and technologies, analytical psychology and hermeneutics, the power of imagination and the call of being—in fiction stories indistinguishable from reality, every word in which is a part of a spell that gives the meanings.
+Stella Fracta is the pen name of the Russian writer and traditionalist philosopher Alexandra Undead, the author of literary fiction, spy and detective novels, and mystical short stories—about the path to oneself, the power of imagination, the call of being, and the utopia of the scarlet sun in the multiple worlds of the Fractured Star Universe.
+Popularization of alchemy in fiction is a way to pass on the secret of the philosopher's stone, the wisdom of thinkers and poets from past centuries.
 
 "Writer's Voice" podcast—for those who don't want to read, but do want to listen
 
@@ -108,7 +107,7 @@ The book is an English translation of the novel “**Невероятный шп
 
 Amid the racing season, the mechanic of the champion team is attacked, ahead is the Grand Prix at the Japanese circuit.
 The mechanic is an undercover MI6 agent, his archenemy is a Russian spy who returned from the dead to take revenge.
-The power of dreams, the car manufacturers’ technology of the future, alchemists, Poets, and liars will meet again to play a dangerous secret Game — in plain sight of the world.
+The power of dreams, the car manufacturers’ technology of the future, alchemists, Poets, and liars will meet again to play a dangerous secret Game—in plain sight of the world.
 
 The second stage of the Great Work, albedo, the sequel to Incredible Spy Detective.
 
@@ -149,7 +148,7 @@ The book is an English translation of the novel “**Замок Альбедо�
 The Heartthrob, a serial killer, is terrorizing a Baltimore neighborhood.
 A consultant psychiatrist assists the investigation, a fatal passion erupts between his patient, a golden-haired singer, and a young FBI agent.
 Someone is leaving clues for the profiler, who uses the method of active imagination; a taciturn bodybuilder living next door becomes the keeper of secrets.
-Eat a heart — gain love…
+Eat a heart—gain love…
 Such is the title of the tragedy about a dragon who killed princesses and searched for a friend.
 
 **Genre:** Detective / Thriller / Horror / Modern prose
@@ -172,7 +171,43 @@ Read
 - 📚 [Stroki](https://stroki.mts.ru/book/the-knight-the-beauty-the-beast-thefool-303618)
 - 📚 [Ridero](https://ridero.ru/books/the_knight_the_beauty_the_beast_the_fool/)
 
-The book is an English translation of the novel  “**Рыцарь, красавица, чудовище, шут”** from Russian. Translator: Alexandra Undead.
+The book is an English translation of the novel “**Рыцарь, красавица, чудовище, шут”** from Russian. Translator: Alexandra Undead.
+
+## Stella Fracta "The Unnamed Violin"
+
+**Original Title:** "Безымянная скрипка"
+
+**Language:** English
+
+*We are all cursed to forever run in the endless cycle of deaths and rebirths around the Fractured Star*
+
+**Tragedy, depression, obsession, music, New York**
+
+![The_Unnamed_Violin_Ridero_Cover_Official.jpg](/public/img/The_Unnamed_Violin_Ridero_Cover_Official.jpg)
+
+Victor, a nightclub musician in New York City, is stalked by a man in a mask and a cloak wanting to take from him the Unnamed Violin of the Architect, an heirloom.
+Everyone has gone crazy about the cult of the Fractured Star, the center of the Multiverse, everyone wants to gain eternal life in many variants of parallel worlds—with the violin.
+
+A chain of fatal events—and Victor becomes a player of the cruel Game, falls in love with the stranger, learns family secrets with the power of music.
+
+**Genre:** Thriller / Visionery fiction / Love story / Modern prose
+
+**Size:** Novel
+
+Buy
+
+- 📚 [Ozon](https://www.ozon.ru/context/detail/id/2937135435/)
+- 📚 [Wildberries](https://www.wildberries.ru/catalog/555496612/detail.aspx)
+- 📚 [Yandex.Market](https://market.yandex.ru/card/the-unnamed-violin/4694632513)
+
+Read
+
+- 📚 [Litres](https://www.litres.ru/book/stella-fracta/the-unnamed-violin-72618535/)
+- 📚 [Yandex.Books](https://books.yandex.ru/books/kwcrhUKY)
+- 📚 [Ridero](https://ridero.ru/books/the_unnamed_violin)
+- 📚 [Amazon](https://www.amazon.es/-/en/dp/B0FV8PCLML/)
+
+The book is an English translation of the novel **“Безымянная скрипка”** from Russian. Translator: Alexandra Undead, editor; Phaenon Dee.
 
 ## Other short novels / novellas
 
@@ -454,8 +489,8 @@ Now all rights are reserved, and the novel has been published with original char
 ![Whitechapel Ridero Cover Official.jpg](/public/img/Whitechapel_Ridero_Cover_Official.jpg)
 
 Dr. Wilson, a professor of forensic psychiatry, is appointed as a consultant at Whitechapel Police Station to assist detectives investigating the case of the serial killer The Storyteller, who is creating bloody narrative installations.
-Medical examiner Hart notices that Wilson understands the "story" and speaks the language of the criminal — which means he can find him.
-A philosophical novel about the legacy of alchemists and creators — in the symbolic language of mytho-poetic hermeneutics in the prosaic, cruel reality of modern-day London.
+Medical examiner Hart notices that Wilson understands the "story" and speaks the language of the criminal—which means he can find him.
+A philosophical novel about the legacy of alchemists and creators—in the symbolic language of mytho-poetic hermeneutics in the prosaic, cruel reality of modern-day London.
 
 **Genre:** Detective / Thriller / Horror / Modern prose
 
@@ -810,11 +845,11 @@ Wine seminars, tastings, bar, parties.
 
 ✍️ [Sommelier by Love, Bartender by Call. Why I Don’t Teach People How to Drink Anymore](https://dzen.ru/a/ZM4iZStKUm7-hwSO)
 
-✍️ [Zen – Articles About Wine, Cocktails and Coffee](https://dzen.ru/suite/0838e3c1-b95c-4f62-878b-efd7688cdcb6)
+✍️ [Zen - Articles About Wine, Cocktails and Coffee](https://dzen.ru/suite/0838e3c1-b95c-4f62-878b-efd7688cdcb6)
 
 🍷 [VK Around the Wine World and Alcohol Culture Awareness](https://vk.com/winewithsasha)
 
-📹 [YouTube – Bartenders and Bars, Alcohol Culture, Podcast and More](https://www.youtube.com/playlist?list=PL4M4dR773ukeUpi90jt_yXtf14ldVfh3c)
+📹 [YouTube - Bartenders and Bars, Alcohol Culture, Podcast and More](https://www.youtube.com/playlist?list=PL4M4dR773ukeUpi90jt_yXtf14ldVfh3c)
 
 <p id="other"></p>
 # **Other**
