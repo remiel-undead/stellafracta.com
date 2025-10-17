@@ -204,10 +204,13 @@ Read
 
 - 📚 [Litres](https://www.litres.ru/book/stella-fracta/the-unnamed-violin-72618535/)
 - 📚 [Yandex.Books](https://books.yandex.ru/books/kwcrhUKY)
+- 📚 [Mybook](https://mybook.ru/author/stella-fracta/the-unnamed-violin/)
+- 📚 [Stroki](https://stroki.mts.ru/book/the-unnamed-violin-337952)
+- 📚 [Google Books](https://play.google.com/store/books/details/Stella_Fracta_The_Unnamed_Violin?id=0NuNEQAAQBAJ)
 - 📚 [Ridero](https://ridero.ru/books/the_unnamed_violin)
 - 📚 [Amazon](https://www.amazon.es/-/en/dp/B0FV8PCLML/)
 
-The book is an English translation of the novel **“Безымянная скрипка”** from Russian. Translator: Alexandra Undead, editor; Phaenon Dee.
+The book is an English translation of the novel **“Безымянная скрипка”** from Russian. Translator: Alexandra Undead, editor: Phaenon Dee.
 
 ## Other short novels / novellas
 
