@@ -59,7 +59,7 @@ lang: ru
 
 **Поэты и лжецы, алхимия, Данте, Инферно**
 
-![Incredible Spy Ridero Cover Official.jpg](/public/img/Incredible_Spy_Ridero_Cover_Official.jpg)
+<img src="/public/img/Incredible_Spy_Ridero_Cover_Official.jpg" width="50%">
 
 Агент британской разведки действует по законам шпионского жанра, пытаясь проникнуть в ряды великих алхимиков – сообщество Поэтов, – но терпит неудачу за неудачей.
 Известная писательница детективных романов, тем временем, путешествует между эпохами, разгадывая головоломку о таинственном незнакомце, которому предстоит встреча с ее друзьями из прошлых столетий.
@@ -113,7 +113,7 @@ lang: ru
 
 **Шпионы, алхимики, учителя и ученики, Формула-1 в Японии**
 
-![Albedo Castle Ridero Cover Official.jpg](/public/img/Albedo_Castle_Ridero_Cover_Official.jpg)
+<img src="/public/img/Albedo_Castle_Ridero_Cover_Official.jpg" width="50%">
 
 В разгар гоночного сезона на механика чемпионской команды совершено нападение, впереди — Гран-при на японской трассе.
 Механик — агент британской разведки под прикрытием, его заклятый враг — русский шпион, вернувшийся с того света, чтобы отомстить.
@@ -164,7 +164,7 @@ lang: ru
 
 **Теория игр, шпионы, Берлин, БДСМ, философия и герменевтика**
 
-![Bayesian Game Ridero Cover Official.jpg](/public/img/Bayesian_Game_Ridero_Cover_Official.jpg)
+<img src="public/img/Bayesian_Game_Ridero_Cover_Official.jpg" width="50%">
 
 Успешный бизнесмен, филантроп и по совместительству русский шпион в Берлине попадает в водоворот экзистенционального кризиса среднего возраста.
 Голоса в голове, подозрительно сговорчивая помощница, алхимия и зов бытия…
@@ -208,7 +208,7 @@ lang: ru
 
 **Детективы, кошки и аутисты на итальянских виноградниках Бароло**
 
-![Cats Dont Drink Wine Ridero Cover Official.jpg](/public/img/Cats_Dont_Drink_Wine_Ridero_Cover_Official.jpg)
+<img src="/public/img/Cats_Dont_Drink_Wine_Ridero_Cover_Official.jpg" width="50%">
 
 У кошки Бриошь перемены в жизни — хозяйка работает над книгой о винодельне городка Бароло в сердце Пьемонта.
 Бриошь одобряет нового избранника хозяйки: у Уильяма Гатти, преподавателя школы сомелье, три собаки и высокофункциональный аутизм.
@@ -253,7 +253,7 @@ lang: ru
 
 **Детектив, убийственная любовь, ФБР и серийники Балтимора**
 
-![Knight Beauty Beast Fool Ridero Cover Official.jpg](/public/img/Knight_Beauty_Beast_Fool_Ridero_Cover_Official.jpg)
+<img src="/public/img/Knight_Beauty_Beast_Fool_Ridero_Cover_Official.jpg" width="50%">
 
 Серийный убийца Сердцеед держит в страхе элитный квартал Балтимора.
 Помощь в расследовании оказывает психиатр-консультант, между его пациенткой, золотоволосой певицей, и молодым агентом ФБР вспыхивает роковая страсть.
@@ -299,7 +299,7 @@ lang: ru
 
 **Рецепт легендарного преступления, серийник, психиатр и полиция Лондона**
 
-![Whitechapel Ridero Cover Official.jpg](/public/img/Whitechapel_Ridero_Cover_Official.jpg)
+<img src="/public/img/Whitechapel_Ridero_Cover_Official.jpg" width="50%">
 
 Доктор Уилсон, профессор судебной психиатрии, назначен консультантом в полицейский участок Уайтчепел в помощь детективам, расследующим дело серийного убийцы Рассказчика, устраивающего кровавые повествовательные инсталляции.
 Судмедэксперт Харт замечает, что Уилсон понимает «рассказ» и говорит на языке преступника – а значит, может его найти.
@@ -341,7 +341,7 @@ lang: ru
 
 **Трагедия, депрессия, одержимость, музыка, Нью-Йорк**
 
-![Unnamed Violin Ridero Cover Official.jpg](/public/img/Unnamed_Violin_Ridero_Cover_Official.jpg)
+<img src="/public/img/Unnamed_Violin_Ridero_Cover_Official.jpg" width="50%">
 
 Виктора, музыканта из ночного клуба в Нью-Йорке, преследует мужчина в маске и черном плаще — чтобы забрать Безымянную скрипку Архитектора, фамильную реликвию.
 Все вокруг помешались на культе Расщепленной Звезды, центре мультивариантной Вселенной, ищут способ обрести вечную жизнь во множестве версий параллельных реальностей — с помощью скрипки.
@@ -386,7 +386,7 @@ lang: ru
 
 **Бездомный подросток Виктор, Нью-Йорк, оковы и свобода**
 
-![Wild and Violent 2024 Ridero Cover Official.jpg](/public/img/Wild_and_Violent_2024_Ridero_Cover_Official.jpg)
+<img src="/public/img/Wild_and_Violent_2024_Ridero_Cover_Official.jpg" width="50%">
 
 Бездомный подросток Виктор с улиц Нью-Йорка случайно попадает в дом к богатой паре и обретает семью.
 Драма про детско-родительские отношения, фамильные тайны и больную любовь.
@@ -422,7 +422,7 @@ lang: ru
 - 📚 [Флибуста](https://flibusta.su/book/129454-dikiy-i-neistovyiy-u-tebya-byilo-slishkom-mnogo-svobodyi/read/)
 - 📚 [Google Books](https://books.google.com/books?id=5vWXEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Стелла+Фракта%22&hl=en&newbks=1&newbks_redir=1&sa=X&ved=2ahUKEwiTn7TElbCEAxUPPxAIHbbeBGUQ6AF6BAgKEAI)
 
-![Wild and Violent Ridero Cover Official.jpg](/public/img/Wild_and_Violent_Ridero_Cover_Official.jpg)
+<img src="/public/img/Wild_and_Violent_Ridero_Cover_Official.jpg" width="50%">
 
 Подробнее о книге
 
@@ -441,7 +441,7 @@ lang: ru
 
 **Вампир, ведьма, дьявол и странник в замке**
 
-![The Harvest Ridero Cover Official.jpg](/public/img/The_Harvest_Ridero_Cover_Official.jpg)
+<img src="/public/img/The_Harvest_Ridero_Cover_Official.jpg" width="50%">
 
 Престарелый вампир, сумасшедшая ведьма, Дьявол и цыган-кулинар коротают время в старинном замке без интернета.
 Когда на пороге появляется загадочный странник в маске, их безмятежному уединению приходит конец.
@@ -493,7 +493,7 @@ lang: ru
 
 **Странствующий архитектор, бежать нельзя остаться**
 
-![Moonlight Ridero Cover Official.jpg](/public/img/Moonlight_Ridero_Cover_Official.jpg)
+<img src="/public/img/Moonlight_Ridero_Cover_Official.jpg" width="50%">
 
 Молодой странствующий архитектор гостит в старинном замке и невольно становится частью странной игры замковых обитателей.
 Беда в том, что даже узнав тайны старого графа и высокомерной незнакомки, архитектор не может уйти.
@@ -532,7 +532,7 @@ lang: ru
 
 **БДСМ, актер в чумной маске и страх отношений**
 
-![Plague Mask Ridero Cover Official.jpg](/public/img/Plague_Mask_Ridero_Cover_Official.jpg)
+<img src="/public/img/Plague_Mask_Ridero_Cover_Official.jpg" width="50%">
 
 Он — профессиональный актер, она — та, кто знает, что ей нужно.
 Но что, если он понравился ей не только как кукла в чумной маске?
@@ -571,7 +571,7 @@ lang: ru
 
 **Poets and Liars, alchemy, Dante, Inferno**
 
-![Incredible Spy Eng Ridero Cover Official.jpg](/public/img/Incredible_Spy_Eng_Ridero_Cover_Official.jpg)
+<img src="/public/img/Incredible_Spy_Eng_Ridero_Cover_Official.jpg" width="50%">
 
 An MI6 agent acts according to the rules of the spy genre, trying to infiltrate the great alchemists — the Poets’ society — but fails over and over again.
 A famous detective novel writer, meanwhile, travels between eras, unraveling the puzzle about a mysterious stranger who is about to meet her friends from past centuries.
@@ -607,7 +607,7 @@ Confrontation of friends and foes, forces of order and chaos, reason and im
 
 **Spies, alchemists, teachers and students, Formula One in Japan**
 
-![Albedo Castle Eng Ridero Official.jpg](/public/img/Albedo_Castle_Eng_Ridero_Official.jpg)
+<img src="/public/img/Albedo_Castle_Eng_Ridero_Official.jpg" width="50%">
 
 Amid the racing season, the mechanic of the champion team is attacked, ahead is the Grand Prix at the Japanese circuit.
 The mechanic is an undercover MI6 agent, his archenemy is a Russian spy who returned from the dead to take revenge.
@@ -643,7 +643,7 @@ The second stage of the Great Work, albedo, the sequel to Incredible Spy Detecti
 
 **Detective, murderous love, FBI and Baltimore serial killers**
 
-![Knight, Beauty, Beast, Fool Eng Ridero Official.jpg](/public/img/Knight_Beauty_Beast_Fool_Eng_Ridero_Official.jpg)
+<img src="/public/img/Knight_Beauty_Beast_Fool_Eng_Ridero_Official.jpg" width="50%">
 
 The Heartthrob, a serial killer, is terrorizing a Baltimore neighborhood.
 A consultant psychiatrist assists the investigation, a fatal passion erupts between his patient, a golden-haired singer, and a young FBI agent.
@@ -679,7 +679,7 @@ Such is the title of the tragedy about a dragon who killed princesses and search
 
 **Tragedy, depression, obsession, music, New York**
 
-![The_Unnamed_Violin_Ridero_Cover_Official.jpg](/public/img/The_Unnamed_Violin_Ridero_Cover_Official.jpg)
+<img src="/public/img/The_Unnamed_Violin_Ridero_Cover_Official.jpg" width="50%">
 
 Victor, a nightclub musician in New York City, is stalked by a man in a mask and a cloak wanting to take from him the Unnamed Violin of the Architect, an heirloom.
 Everyone has gone crazy about the cult of the Fractured Star, the center of the Multiverse, everyone wants to gain eternal life in many variants of parallel worlds — with the violin.
@@ -714,7 +714,7 @@ A chain of fatal events — and Victor becomes a player of the cruel Game, falls
 
 **Homeless teen Victor, New York, bond and freedom**
 
-![Wild_and_Violent_Eng_Ridero_Cover_Official.jpg](/public/img/Wild_and_Violent_Eng_Ridero_Cover_Official.jpg)
+<img src="/public/img/Wild_and_Violent_Eng_Ridero_Cover_Official.jpg" width="50%">
 
 Homeless teenager Victor from the streets of New York accidentally finds himself in the home of a rich couple and finds a family.
 A drama about parent-child relationships, family secrets, and sick love, revealing the disgusting truth of the world of distorting mirrors from the perspective of a victim of emotional and sexual abuse.
@@ -791,7 +791,7 @@ Prequel to 'Glorious Evolution' by Stella Fracta.
 
 **Темы:** книги, художественная литература, философия, психология, алхимия, читает автор, профессия писателя.
 
-![Writer's_Voice_Cover.jpg](/public/img/Writer's_Voice_Cover.jpg)
+<img src="/public/img/Writer's_Voice_Cover.jpg" width="50%">
 
 🎧 [Яндекс.Музыка](https://music.yandex.ru/album/30466059)
 
@@ -819,7 +819,7 @@ Prequel to 'Glorious Evolution' by Stella Fracta.
 
 **Темы:** писательство, алкогольная культура, психология, субъективное мнение.
 
-![Podcast_Img_Profile_4.jpg](/public/img/Podcast_Img_Profile_4.jpg)
+<img src="/public/img/Podcast_Img_Profile_4.jpg" width="50%">
 
 🎧 [Яндекс.Музыка](https://music.yandex.ru/album/22291166)
 
