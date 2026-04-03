@@ -708,6 +708,36 @@ A chain of fatal events — and Victor becomes a player of the cruel Game, falls
 
 Книга является англоязычным переводом романа **“Безымянная скрипка”**, переводчик Alexandra Undead (Александра Undead), редактор Phaenon Dee (Файнон Ди).
 
+## Stella Fracta "Wild and Violent"
+
+*You had too much freedom*
+
+**Homeless teen Victor, New York, bond and freedom**
+
+![Wild_and_Violent_Eng_Ridero_Cover_Official.jpg](/public/img/Wild_and_Violent_Eng_Ridero_Cover_Official.jpg)
+
+Homeless teenager Victor from the streets of New York accidentally finds himself in the home of a rich couple and finds a family.
+A drama about parent-child relationships, family secrets, and sick love, revealing the disgusting truth of the world of distorting mirrors from the perspective of a victim of emotional and sexual abuse.
+
+That very scandalous book from the series of works on the Fractured Star Universe, where young Victor from the novel The Unnamed Violin chooses freedom.
+
+**Genre:** Drama / Romance / Modern prose
+
+**Size:** Novel
+
+Купить
+
+- 📚 [Ozon](https://ozon.ru/t/wGgrVxs)
+- 📚 [Wildberries](https://www.wildberries.ru/catalog/920294356/detail.aspx)
+
+Читать
+
+- 📚 [Литрес](https://www.litres.ru/book/stella-fracta/wild-and-violent-you-had-too-much-freedom-73750663/)
+- 📚 [Ridero](https://ridero.ru/books/wild_and_violent)
+- 📚 [Amazon](https://a.co/d/0dkA0G4M)
+
+Книга является англоязычным переводом романа **“Дикий и неистовый”**, переводчик Alexandra Undead (Александра Undead).
+
 ## Прочие короткие романы / новеллы
 
 **Stella Fracta "Home All Alone"**
