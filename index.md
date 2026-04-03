@@ -63,7 +63,7 @@ The back side of book business in the podcast “Есть что сказать 
 
 **Poets and Liars, alchemy, Dante, Inferno**
 
-![Incredible Spy Eng Ridero Cover Official.jpg](/public/img/Incredible_Spy_Eng_Ridero_Cover_Official.jpg)
+<img src="/public/img/Incredible_Spy_Eng_Ridero_Cover_Official.jpg" width="50%">
 
 An MI6 agent acts according to the rules of the spy genre, trying to infiltrate the great alchemists—the Poets’ society—but fails over and over again.
 A famous detective novel writer, meanwhile, travels between eras, unraveling the puzzle about a mysterious stranger who is about to meet her friends from past centuries.
@@ -103,7 +103,7 @@ The book is an English translation of the novel “**Невероятный шп
 
 **Spies, alchemists, teachers and students, Formula One in Japan**
 
-![Albedo Castle Eng Ridero Official.jpg](/public/img/Albedo_Castle_Eng_Ridero_Official.jpg)
+<img src="/public/img/Albedo_Castle_Eng_Ridero_Official.jpg" width="50%">
 
 Amid the racing season, the mechanic of the champion team is attacked, ahead is the Grand Prix at the Japanese circuit.
 The mechanic is an undercover MI6 agent, his archenemy is a Russian spy who returned from the dead to take revenge.
@@ -143,7 +143,7 @@ The book is an English translation of the novel “**Замок Альбедо�
 
 **Detective, murderous love, FBI and Baltimore serial killers**
 
-![Knight, Beauty, Beast, Fool Eng Ridero Official.jpg](/public/img/Knight_Beauty_Beast_Fool_Eng_Ridero_Official.jpg)
+<img src="/public/img/Knight_Beauty_Beast_Fool_Eng_Ridero_Official.jpg" width="50%">
 
 The Heartthrob, a serial killer, is terrorizing a Baltimore neighborhood.
 A consultant psychiatrist assists the investigation, a fatal passion erupts between his patient, a golden-haired singer, and a young FBI agent.
@@ -183,7 +183,7 @@ The book is an English translation of the novel “**Рыцарь, красав�
 
 **Tragedy, depression, obsession, music, New York**
 
-![The_Unnamed_Violin_Ridero_Cover_Official.jpg](/public/img/The_Unnamed_Violin_Ridero_Cover_Official.jpg)
+<img src="/public/img/The_Unnamed_Violin_Ridero_Cover_Official.jpg" width="50%">
 
 Victor, a nightclub musician in New York City, is stalked by a man in a mask and a cloak wanting to take from him the Unnamed Violin of the Architect, an heirloom.
 Everyone has gone crazy about the cult of the Fractured Star, the center of the Multiverse, everyone wants to gain eternal life in many variants of parallel worlds—with the violin.
@@ -222,7 +222,7 @@ The book is an English translation of the novel **“Безымянная скр
 
 **Homeless teen Victor, New York, bond and freedom**
 
-![Wild_and_Violent_Eng_Ridero_Cover_Official.jpg](/public/img/Wild_and_Violent_Eng_Ridero_Cover_Official.jpg)
+<img src="/public/img/Wild_and_Violent_Eng_Ridero_Cover_Official.jpg" width="50%">
 
 Homeless teenager Victor from the streets of New York accidentally finds himself in the home of a rich couple and finds a family.
 A drama about parent-child relationships, family secrets, and sick love, revealing the disgusting truth of the world of distorting mirrors from the perspective of a victim of emotional and sexual abuse.
@@ -301,7 +301,7 @@ Prequel to 'Glorious Evolution' by Stella Fracta.
 
 **Language:** Russian
 
-![Incredible Spy Ridero Cover Official.jpg](/public/img/Incredible_Spy_Ridero_Cover_Official.jpg)
+<img src="/public/img/Incredible_Spy_Ridero_Cover_Official.jpg" width="50%">
 
 <div class="video-container">
 <iframe width="942" height="530" src="https://www.youtube.com/embed/DZDpgD6S3mw" title="Стелла Фракта «Невероятный шпионский детектив» | Поэты и лжецы, алхимия, Данте, Инферно | Буктрейлер" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -346,7 +346,7 @@ Stella Fracta & “Incredible Spy Detective” novel at the international book f
 
 **Language:** Russian
 
-![Albedo Castle Ridero Cover Official.jpg](/public/img/Albedo_Castle_Ridero_Cover_Official.jpg)
+<img src="/public/img/Albedo_Castle_Ridero_Cover_Official.jpg" width="50%">
 
 <div class="video-container">
 <iframe width="942" height="530" src="https://www.youtube.com/embed/x_zlLaExCzc" title="Red Bull Racing, Honda, Формула-1 и Замок Альбедо в Японии | Голос писателя - Стелла Фракта" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -391,7 +391,7 @@ Stella Fracta & “Albedo Castle” novel at the international book fair ММК�
 
 **Game theory, spies, Berlin, BDSM, philosophy and hermeneutics**
 
-![Bayesian Game Ridero Cover Official.jpg](/public/img/Bayesian_Game_Ridero_Cover_Official.jpg)
+<img src="/public/img/Bayesian_Game_Ridero_Cover_Official.jpg" width="50%">
 
 A successful businessman, philanthropist and a Russian spy in Berlin ends up in a whirlpool of an existential midlife crisis.
 Voices in his head, a suspiciously compliant assistant, alchemy, the call of being…Everything suddenly loses its meanings, turns into madness, escape and pursuit, a game with nature, and answers are to be sought in his past, in another life.
@@ -438,7 +438,7 @@ Read more
 
 **Detectives, cats and autistics on Italian vineyards of Barolo**
 
-![Cats Dont Drink Wine Ridero Cover Official.jpg](/public/img/Cats_Dont_Drink_Wine_Ridero_Cover_Official.jpg)
+<img src="/public/img/Cats_Dont_Drink_Wine_Ridero_Cover_Official.jpg" width="50%">
 
 Brioche the cat’s life is changing—her owner is writing a book about the winery in Barolo, a town in the heart of Piedmont.
 Brioche approves her owner’s new lover: William Gatti, a teacher of the sommelier school, has three dogs and high-functioning autism.
@@ -483,7 +483,7 @@ Stella Fracta & “Cats Don’t Drink Wine” at the international book fair Non
 
 **Language:** Russian
 
-![Knight Beauty Beast Fool Ridero Cover Official.jpg](/public/img/Knight_Beauty_Beast_Fool_Ridero_Cover_Official.jpg)
+<img src="/public/img/Knight_Beauty_Beast_Fool_Ridero_Cover_Official.jpg" width="50%">
 
 <div class="video-container">
 <iframe width="942" height="530" src="https://www.youtube.com/embed/Z97J45DIHeM" title="Стелла Фракта «Клоун ФБР: Рыцарь, красавица, чудовище, шут» | Детектив, сериал Ганнибал | Буктрейлер" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -523,7 +523,7 @@ Now all rights are reserved, and the novel has been published with original char
 
 **The recipe for a legendary crime, a serial killer, a psychiatrist, and the London police**
 
-![Whitechapel Ridero Cover Official.jpg](/public/img/Whitechapel_Ridero_Cover_Official.jpg)
+<img src="/public/img/Whitechapel_Ridero_Cover_Official.jpg" width="50%">
 
 Dr. Wilson, a professor of forensic psychiatry, is appointed as a consultant at Whitechapel Police Station to assist detectives investigating the case of the serial killer The Storyteller, who is creating bloody narrative installations.
 Medical examiner Hart notices that Wilson understands the "story" and speaks the language of the criminal—which means he can find him.
@@ -565,7 +565,7 @@ Read more
 
 **Language:** Russian
 
-![Unnamed Violin Ridero Cover Official.jpg](/public/img/Unnamed_Violin_Ridero_Cover_Official.jpg)
+<img src="/public/img/Unnamed_Violin_Ridero_Cover_Official.jpg" width="50%">
 
 <div class="video-container">
 <iframe width="942" height="530" src="https://www.youtube.com/embed/LfnrzNSePEM" title="Стелла Фракта «Безымянная скрипка» | Трагедия, депрессия, одержимость, музыка, Нью-Йорк | Буктрейлер" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -601,7 +601,7 @@ Read more
 
 **Language:** Russian
 
-![Wild and Violent 2024 Ridero Cover Official.jpg](/public/img/Wild_and_Violent_2024_Ridero_Cover_Official.jpg)
+<img src="/public/img/Wild_and_Violent_2024_Ridero_Cover_Official.jpg" width="50%">
 
 <div class="video-container">
 <iframe width="942" height="530" src="https://www.youtube.com/embed/c8ue4edCexk" title="Книга Стелла Фракта «Дикий и неистовый» | Бездомный подросток Виктор, Нью-Йорк, свобода | Буктрейлер" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -628,7 +628,7 @@ Read
 - 📚 [Flibusta](https://flibusta.su/book/129454-dikiy-i-neistovyiy-u-tebya-byilo-slishkom-mnogo-svobodyi/read/)
 - 📚 [Google Books](https://books.google.com/books?id=5vWXEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Стелла+Фракта%22&hl=en&newbks=1&newbks_redir=1&sa=X&ved=2ahUKEwiTn7TElbCEAxUPPxAIHbbeBGUQ6AF6BAgKEAI)
 
-![Wild and Violent Ridero Cover Official.jpg](/public/img/Wild_and_Violent_Ridero_Cover_Official.jpg)
+<img src="/public/img/Wild_and_Violent_Ridero_Cover_Official.jpg" width="50%">
 
 Read more
 
@@ -651,7 +651,7 @@ Read more
 
 **Vampire, witch, devil and wanderer architect in a castle**
 
-![The Harvest Ridero Cover Official.jpg](/public/img/The_Harvest_Ridero_Cover_Official.jpg)
+<img src="/public/img/The_Harvest_Ridero_Cover_Official.jpg" width="50%">
 
 An elderly vampire, a mad witch, Devil and a gypsy cook while away the time in an old castle without the Internet.
 When a mysterious masked wanderer appears on the doorstep, their serene solitude comes to an end.
@@ -707,7 +707,7 @@ Read more
 
 **Wanderer architect, cannot leave, cannot stay**
 
-![Moonlight Ridero Cover Official.jpg](/public/img/Moonlight_Ridero_Cover_Official.jpg)
+<img src="/public/img/Moonlight_Ridero_Cover_Official.jpg" width="50%">
 
 A young wanderer architect stays in an old castle and unwittingly becomes part of an odd game of castle inhabitants.
 The trouble is that despite the secrets of the old count and the arrogant female stranger, the architect cannot leave.
@@ -750,7 +750,7 @@ Read more
 
 **BDSM, actor in a plague mask, fear of relationships**
 
-![Plague Mask Ridero Cover Official.jpg](/public/img/Plague_Mask_Ridero_Cover_Official.jpg)
+<img src="/public/img/Plague_Mask_Ridero_Cover_Official.jpg" width="50%">
 
 He is a professional actor, she is the one who knows what she needs.
 But what if she liked him not only as a puppet in a plague mask?
@@ -791,7 +791,7 @@ Stella Fracta, the writer, the alchemist and the philosophical prose author, is 
 
 **Topics**: books, fiction, philosophy, psychology, alchemy, author's reading, writing.
 
-![Writer's_Voice_Cover.jpg](/public/img/Writer's_Voice_Cover.jpg)
+<img src="/public/img/Writer's_Voice_Cover.jpg" width="50%">
 
 🎧 [Yandex.Music](https://music.yandex.ru/album/30466059)
 
@@ -823,7 +823,7 @@ Alexandra has something to say. A podcast in Russian about communication with th
 
 **Topics**: writing, alcohol culture, psychology, subjective opinion.
 
-![Podcast_Img_Profile_4.jpg](/public/img/Podcast_Img_Profile_4.jpg)
+<img src="/public/img/Podcast_Img_Profile_4.jpg" width="50%">
 
 🎧 [Yandex.Music](https://music.yandex.ru/album/22291166)
 
