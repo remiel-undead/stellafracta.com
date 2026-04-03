@@ -212,6 +212,40 @@ Read
 
 The book is an English translation of the novel **“Безымянная скрипка”** from Russian. Translator: Alexandra Undead, editor: Phaenon Dee.
 
+## Stella Fracta "Wild and Violent"
+
+**Original Title:** "Дикий и неистовый"
+
+**Language:** English
+
+*You had too much freedom*
+
+**Homeless teen Victor, New York, bond and freedom**
+
+![Wild_and_Violent_Eng_Ridero_Cover_Official.jpg](/public/img/Wild_and_Violent_Eng_Ridero_Cover_Official.jpg)
+
+Homeless teenager Victor from the streets of New York accidentally finds himself in the home of a rich couple and finds a family.
+A drama about parent-child relationships, family secrets, and sick love, revealing the disgusting truth of the world of distorting mirrors from the perspective of a victim of emotional and sexual abuse.
+
+That very scandalous book from the series of works on the Fractured Star Universe, where young Victor from the novel The Unnamed Violin chooses freedom.
+
+**Genre:** Drama / Romance / Modern prose
+
+**Size:** Novel
+
+Buy
+
+- 📚 [Ozon](https://ozon.ru/t/wGgrVxs)
+- 📚 [Wildberries](https://www.wildberries.ru/catalog/920294356/detail.aspx)
+
+Read
+
+- 📚 [Litres](https://www.litres.ru/book/stella-fracta/wild-and-violent-you-had-too-much-freedom-73750663/)
+- 📚 [Ridero](https://ridero.ru/books/wild_and_violent)
+- 📚 [Amazon](https://a.co/d/0dkA0G4M)
+
+The book is an English translation of the novel **“Дикий и неистовый”** from Russian. Translator: Alexandra Undead.
+
 ## Other short novels / novellas
 
 **Stella Fracta "Home All Alone"**
@@ -531,20 +565,7 @@ Read more
 
 **Language:** Russian
 
-*We are all cursed to forever run in the endless cycle of deaths and rebirths around the Fractured Star*
-
-**Tragedy, depression, obsession, music, New York**
-
 ![Unnamed Violin Ridero Cover Official.jpg](/public/img/Unnamed_Violin_Ridero_Cover_Official.jpg)
-
-Victor, a nightclub musician in New York City, is stalked by a man in a mask and a cloak wanting to take from him the Unnamed Violin of the Architect, an heirloom.
-Everyone has gone crazy about the cult of the Fractured Star, the center of the Multiverse, everyone wants to gain eternal life in many variants of parallel worlds—with the violin.
-
-A chain of fatal events—and Victor becomes a player of the cruel Game, falls in love with the stranger, learns family secrets with the power of music.
-
-**Genre:** Thriller / Visionery fiction / Love story / Modern prose
-
-**Size:** Novel
 
 <div class="video-container">
 <iframe width="942" height="530" src="https://www.youtube.com/embed/LfnrzNSePEM" title="Стелла Фракта «Безымянная скрипка» | Трагедия, депрессия, одержимость, музыка, Нью-Йорк | Буктрейлер" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -580,22 +601,7 @@ Read more
 
 **Language:** Russian
 
-*You had too much freedom*
-
-**Homeless teen Victor, New York, bond and freedom**
-
 ![Wild and Violent 2024 Ridero Cover Official.jpg](/public/img/Wild_and_Violent_2024_Ridero_Cover_Official.jpg)
-
-Homeless teenager Victor from the streets of New York accidentally finds himself in the house of a rich couple and finds a family.
-A drama about parent-child relationships, family secrets and sick love.
-
-An alternate story to the Fractured Star Universe tetralogy, where young Victor chooses freedom.
-
-Warnings: oedipus complex, narcissistic mother.
-
-**Genre:** Drama / Romance / Modern prose
-
-**Size:** Novel
 
 <div class="video-container">
 <iframe width="942" height="530" src="https://www.youtube.com/embed/c8ue4edCexk" title="Книга Стелла Фракта «Дикий и неистовый» | Бездомный подросток Виктор, Нью-Йорк, свобода | Буктрейлер" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -603,7 +609,9 @@ Warnings: oedipus complex, narcissistic mother.
 
 The book was published in 2022 and withdrawn from sale in 2023 from all stores due to libel in violation of the law (scenes involving the minor Victor).
 
-In 2024 (after making corrections to Victor's age in some episodes and more than a year of fighting to save Victor), "Wild and Violent" in renewed edition reappeared on the books store shelves and in e-book services.
+In 2024 (after making corrections to Victor's age in some episodes and more than a year of fighting to save Victor), "Дикий и неистовый" in renewed edition reappeared on the books store shelves and in e-book services.
+
+In 2026, the English version of "Wild and Violent" was published.
 
 Buy
 
