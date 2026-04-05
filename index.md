@@ -85,6 +85,7 @@ Read
 - 📚 [Amazon](http://www.amazon.com/dp/B0CKW3YHD6)
 - 📚 [Goodreads](https://www.goodreads.com/book/show/199392660-incredible-spy-detective)
 - 📚 [Apple Books](https://books.apple.com/se/book/incredible-spy-detective-poets-and-liars/id6469199835)
+- 📚 [Google Books](https://www.google.ru/books/edition/Incredible_Spy_Detective_Poets_and_Liars/jxsREQAAQBAJ?hl=en&gbpv=0)
 - 📚 [Yandex.Books](https://bookmate.ru/books/iEwSrmVh)
 - 📚 [Litres](https://www.litres.ru/book/stella-fracta/incredible-spy-detective-poets-and-liars-69824017/)
 - 📚 [Mybook](https://mybook.ru/author/stella-fracta/incredible-spy-detective-poets-and-liars/)
@@ -125,7 +126,8 @@ Read
 
 - 📚 [Amazon](http://www.amazon.com/dp/B0FBWW1N75)
 - 📚 [Apple Books](https://books.apple.com/es/book/albedo-castle/id6746860132)
-- 📚 [Books.Yandex](https://books.yandex.ru/books/Znw79wzz)
+- 📚 [Google Books](https://www.google.ru/books/edition/Albedo_Castle/_BhNEQAAQBAJ?hl=en&gbpv=0)
+- 📚 [Yandex.Books](https://books.yandex.ru/books/Znw79wzz)
 - 📚 [Litres](http://www.litres.ru/book/stella-fracta/albedo-castle-72068476/)
 - 📚 [Mybook](https://mybook.ru/author/stella-fracta/albedo-castle-2/)
 - 📚 [Stroki](https://stroki.mts.ru/book/albedo-castle-320792)
@@ -165,6 +167,7 @@ Read
 
 - 📚 [Amazon](http://www.amazon.com/dp/B0DZCTK5T2)
 - 📚 [Apple Books](https://books.apple.com/gb/book/the-knight-the-beauty-the-beast-the-fool-eat-a-heart-gain-love/id6742870778)
+- 📚 [Google Books](https://www.google.ru/books/edition/The_Knight_the_Beauty_the_Beast_the_Fool/3hhNEQAAQBAJ?hl=en&gbpv=0)
 - 📚 [Yandex.Books](https://books.yandex.ru/books/wPAhOnZ2)
 - 📚 [Litres](https://www.litres.ru/book/stella-fracta/the-knight-the-beauty-the-beast-the-fool-eat-a-heart-gain-lo-71730268/)
 - 📚 [Mybook](https://mybook.ru/author/stella-fracta/the-knight-the-beauty-the-beast-thefool-eat-aheart/)
@@ -202,13 +205,14 @@ Buy
 
 Read
 
-- 📚 [Litres](https://www.litres.ru/book/stella-fracta/the-unnamed-violin-72618535/)
+- 📚 [Amazon](https://www.amazon.es/-/en/dp/B0FV8PCLML/)
+- 📚 [Apple Books](https://books.apple.com/us/book/the-unnamed-violin/id6755302508)
+- 📚 [Google Books](https://play.google.com/store/books/details/Stella_Fracta_The_Unnamed_Violin?id=0NuNEQAAQBAJ)
 - 📚 [Yandex.Books](https://books.yandex.ru/books/kwcrhUKY)
+- 📚 [Litres](https://www.litres.ru/book/stella-fracta/the-unnamed-violin-72618535/)
 - 📚 [Mybook](https://mybook.ru/author/stella-fracta/the-unnamed-violin/)
 - 📚 [Stroki](https://stroki.mts.ru/book/the-unnamed-violin-337952)
-- 📚 [Google Books](https://play.google.com/store/books/details/Stella_Fracta_The_Unnamed_Violin?id=0NuNEQAAQBAJ)
 - 📚 [Ridero](https://ridero.ru/books/the_unnamed_violin)
-- 📚 [Amazon](https://www.amazon.es/-/en/dp/B0FV8PCLML/)
 
 The book is an English translation of the novel **“Безымянная скрипка”** from Russian. Translator: Alexandra Undead, editor: Phaenon Dee.
 
@@ -240,9 +244,10 @@ Buy
 
 Read
 
+- 📚 [Amazon](https://a.co/d/0dkA0G4M)
+- 📚 [Apple Books](https://books.apple.com/us/book/wild-and-violent-you-had-too-much-freedom/id6761559517)
 - 📚 [Litres](https://www.litres.ru/book/stella-fracta/wild-and-violent-you-had-too-much-freedom-73750663/)
 - 📚 [Ridero](https://ridero.ru/books/wild_and_violent)
-- 📚 [Amazon](https://a.co/d/0dkA0G4M)
 
 The book is an English translation of the novel **“Дикий и неистовый”** from Russian. Translator: Alexandra Undead.
 
