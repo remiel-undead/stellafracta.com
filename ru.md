@@ -91,6 +91,7 @@ lang: ru
 - 📚 [Строки](https://stroki.mts.ru/book/neveroyatniy-shpionskiy-detektiv-poety-i-lzhetsy-226305)
 - 📚 [Amazon](http://www.amazon.com/dp/B0BZW5KSCR)
 - 📚 [Apple Books](https://books.apple.com/de/book/невероятный-шпионский-детектив-поэты-и-лжецы/id6446994284)
+- 📚 [Google Books](https://www.google.ru/books/edition/%D0%9D%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D1%8B%D0%B9_%D1%88%D0%BF%D0%B8%D0%BE%D0%BD%D1%81%D0%BA%D0%B8/wEX0EAAAQBAJ?hl=en&gbpv=0)
 - 📚 [Ridero](https://ridero.ru/books/neveroyatnyi_shpionskii_detektiv/)
 
 Подробнее о книге
@@ -143,6 +144,7 @@ lang: ru
 - 📚 [Строки](https://stroki.mts.ru/book/zamok-albedo-320433)
 - 📚 [Amazon](http://www.amazon.com/dp/B0FBWXV3BY)
 - 📚 [Apple Books](https://books.apple.com/us/book/замок-альбедо/id6747088297)
+- 📚 [Google Books](https://www.google.ru/books/edition/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D0%B4%D0%BE/4PlkEQAAQBAJ?hl=en&gbpv=0)
 - 📚 [Ridero](https://ridero.ru/books/zamok_albedo_1)
 
 Подробнее о книге
@@ -193,6 +195,8 @@ lang: ru
 - 📚 [Яндекс.Книги](https://bookmate.ru/books/QQPzLmc9)
 - 📚 [Строки](https://stroki.mts.ru/book/bayesovskayaigra-219451)
 - 📚 [Amazon](http://www.amazon.com/dp/B0CM99F34Q)
+- 📚 [Apple Books](https://books.apple.com/us/book/%D0%B1%D0%B0%D0%B9%D0%B5%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F-%D0%B8%D0%B3%D1%80%D0%B0/id6741140163)
+- 📚 [Google Books](https://www.google.ru/books/edition/%D0%91%D0%B0%D0%B9%D0%B5%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0/nRsREQAAQBAJ?hl=en&gbpv=0)
 - 📚 [Ridero](https://ridero.ru/books/baiesovskaya_igra/)
 
 Подробнее о книге
@@ -235,6 +239,8 @@ lang: ru
 - 📚 [Amazon](https://www.amazon.com/%D0%9A%D0%BE%D1%88%D0%BA%D0%B8-%D0%BD%D0%B5-%D0%BF%D1%8C%D1%8E%D1%82-%D0%B2%D0%B8%D0%BD%D0%BE-Russian-%D0%A4%D1%80%D0%B0%D0%BA%D1%82%D0%B0-%D0%A1%D1%82%D0%B5%D0%BB%D0%BB%D0%B0-ebook/dp/B0CL97N8RR/)
 - 📚 [Ridero](https://ridero.ru/books/koshki_ne_pyut_vino/)
 - 📚 [Строки](https://stroki.mts.ru/book/koshki-nepyutvino-207342)
+- 📚 [Apple Books](https://books.apple.com/us/book/%D0%BA%D0%BE%D1%88%D0%BA%D0%B8-%D0%BD%D0%B5-%D0%BF%D1%8C%D1%8E%D1%82-%D0%B2%D0%B8%D0%BD%D0%BE/id6741134553)
+- 📚 [Google Books](https://www.google.ru/books/edition/%D0%9A%D0%BE%D1%88%D0%BA%D0%B8_%D0%BD%D0%B5_%D0%BF%D1%8C%D1%8E%D1%82_%D0%B2%D0%B8%D0%BD%D0%BE/2QgXEQAAQBAJ?hl=en&gbpv=0)
 
 Подробнее о книге
 
@@ -281,6 +287,8 @@ lang: ru
 - 📚 [Mybook](https://mybook.ru/author/stella-frakta/rycar-krasavica-chudovisheshut-sesh-serdce-poluchi/)
 - 📚 [Amazon](https://www.amazon.com/Рыцарь-красавица-чудовище-шут-получишь-ebook/dp/B0CRZ2JMPL/)
 - 📚 [Ridero](https://ridero.ru/books/rycar_krasavica_chudovishe_shut)
+- 📚 [Apple Books](https://books.apple.com/us/book/%D1%80%D1%8B%D1%86%D0%B0%D1%80%D1%8C-%D0%BA%D1%80%D0%B0%D1%81%D0%B0%D0%B2%D0%B8%D1%86%D0%B0-%D1%87%D1%83%D0%B4%D0%BE%D0%B2%D0%B8%D1%89%D0%B5-%D1%88%D1%83%D1%82-%D1%81%D1%8A%D0%B5%D1%88%D1%8C-%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B5-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%88%D1%8C/id6741203699)
+- 📚 [Google Books](https://www.google.ru/books/edition/%D0%A0%D1%8B%D1%86%D0%B0%D1%80%D1%8C_%D0%BA%D1%80%D0%B0%D1%81%D0%B0%D0%B2%D0%B8%D1%86%D0%B0_%D1%87%D1%83%D0%B4%D0%BE/mkIXEQAAQBAJ?hl=en&gbpv=0)
 
 Подробнее о книге
 
@@ -323,6 +331,7 @@ lang: ru
 - 📚 [Литрес](https://www.litres.ru/book/stella-frakta/rasskazchik-iz-uaitchepela-71176444/)
 - 📚 [Яндекс.Книги](https://books.yandex.ru/books/xVnnZL9X)
 - 📚 [Mybook](https://mybook.ru/author/stella-frakta/rasskazchik-izuajtchepela/)
+- 📚 [Apple Books](https://books.apple.com/us/book/%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA-%D0%B8%D0%B7-%D1%83%D0%B0%D0%B8-%D1%82%D1%87%D0%B5%D0%BF%D0%B5%D0%BB%D0%B0/id6741502736)
 - 📚 [Google Books](https://books.google.ru/books/about/Рассказчик_из_Уайтчеп.html?id=zwcnEQAAQBAJ&redir_esc=y)
 - 📚 [Строки](https://stroki.mts.ru/sharebook/id=277340_t=TextBook)
 - 📚 [Ridero](https://ridero.ru/books/rasskazchik_iz_uai_tchepela/)
@@ -368,6 +377,7 @@ lang: ru
 - 📚 [Mybook](https://mybook.ru/author/stella-frakta/bezymyannaya-skripka/)
 - 📚 [Яндекс.Книги](https://bookmate.ru/books/IMLgL0hP)
 - 📚 [Apple Books](https://books.apple.com/de/book/безымянная-скрипка/id6451274315)
+- 📚 [Google Books](https://www.google.ru/books/edition/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%B0/x-cdEQAAQBAJ?hl=en&gbpv=0)
 - 📚 [Amazon](https://www.amazon.com/Безымянная-скрипка-Russian-Фракта-Стелла-ebook/dp/B0CBQ37NM5/)
 - 📚 [Ridero](https://ridero.ru/books/bezymyannaya_skripka/)
 
