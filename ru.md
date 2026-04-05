@@ -596,6 +596,7 @@ Confrontation of friends and foes, forces of order and chaos, reason and im
 - 📚 [Строки](https://stroki.mts.ru/book/incredible-spy-detective-poets-and-liars-206979)
 - 📚 [Amazon](http://www.amazon.com/dp/B0CKW3YHD6)
 - 📚 [Apple Books](https://books.apple.com/se/book/incredible-spy-detective-poets-and-liars/id6469199835)
+- 📚 [Google Books](https://www.google.ru/books/edition/Incredible_Spy_Detective_Poets_and_Liars/jxsREQAAQBAJ?hl=en&gbpv=0)
 - 📚 [Goodreads](https://www.goodreads.com/book/show/199392660-incredible-spy-detective)
 - 📚 [Ridero](https://ridero.ru/books/incredible_spy_detective/)
 
@@ -633,6 +634,7 @@ The second stage of the Great Work, albedo, the sequel to Incredible Spy Detecti
 - 📚 [Строки](https://stroki.mts.ru/book/albedo-castle-320792)
 - 📚 [Amazon](http://www.amazon.com/dp/B0FBWW1N75)
 - 📚 [Apple Books](https://books.apple.com/es/book/albedo-castle/id6746860132)
+- 📚 [Google Books](https://www.google.ru/books/edition/Albedo_Castle/_BhNEQAAQBAJ?hl=en&gbpv=0)
 - 📚 [Ridero](https://ridero.ru/books/albedo_castle_1/)
 
 Книга является англоязычным переводом романа “**Замок Альбедо”**, переводчик Alexandra Undead (Александра Undead).
@@ -665,6 +667,7 @@ Such is the title of the tragedy about a dragon who killed princesses and search
 
 - 📚 [Amazon](http://www.amazon.com/dp/B0DZCTK5T2)
 - 📚 [Apple Books](https://books.apple.com/gb/book/the-knight-the-beauty-the-beast-the-fool-eat-a-heart-gain-love/id6742870778)
+- 📚 [Google Books](https://www.google.ru/books/edition/The_Knight_the_Beauty_the_Beast_the_Fool/3hhNEQAAQBAJ?hl=en&gbpv=0)
 - 📚 [Яндекс.Книги](https://books.yandex.ru/books/wPAhOnZ2)
 - 📚 [Литрес](https://www.litres.ru/book/stella-fracta/the-knight-the-beauty-the-beast-the-fool-eat-a-heart-gain-lo-71730268/)
 - 📚 [Mybook](https://mybook.ru/author/stella-fracta/the-knight-the-beauty-the-beast-thefool-eat-aheart/)
@@ -702,6 +705,7 @@ A chain of fatal events — and Victor becomes a player of the cruel Game, falls
 - 📚 [Яндекс.Книги](https://books.yandex.ru/books/kwcrhUKY)
 - 📚 [Mybook](https://mybook.ru/author/stella-fracta/the-unnamed-violin/)
 - 📚 [Строки](https://stroki.mts.ru/book/the-unnamed-violin-337952)
+- 📚 [Apple Books](https://books.apple.com/us/book/the-unnamed-violin/id6755302508)
 - 📚 [Google Books](https://play.google.com/store/books/details/Stella_Fracta_The_Unnamed_Violin?id=0NuNEQAAQBAJ)
 - 📚 [Ridero](https://ridero.ru/books/the_unnamed_violin)
 - 📚 [Amazon](https://www.amazon.es/-/en/dp/B0FV8PCLML/)
@@ -734,6 +738,7 @@ That very scandalous book from the series of works on the Fractured Star Univers
 
 - 📚 [Литрес](https://www.litres.ru/book/stella-fracta/wild-and-violent-you-had-too-much-freedom-73750663/)
 - 📚 [Ridero](https://ridero.ru/books/wild_and_violent)
+- 📚 [Apple Books](https://books.apple.com/us/book/wild-and-violent-you-had-too-much-freedom/id6761559517)
 - 📚 [Amazon](https://a.co/d/0dkA0G4M)
 
 Книга является англоязычным переводом романа **“Дикий и неистовый”**, переводчик Alexandra Undead (Александра Undead).
