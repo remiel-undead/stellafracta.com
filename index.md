@@ -241,6 +241,7 @@ Buy
 
 - 📚 [Ozon](https://ozon.ru/t/wGgrVxs)
 - 📚 [Wildberries](https://www.wildberries.ru/catalog/920294356/detail.aspx)
+- 📚 [Yandex.Market](https://market.yandex.ru/card/wild-and-violent/5438355280)
 
 Read
 
@@ -631,6 +632,7 @@ In 2026, the English version of "Wild and Violent" was published.
 Buy
 
 - 📚 [Wildberries](https://www.wildberries.ru/catalog/125013167/detail.aspx)
+- 📚 [Yandex.Market](https://market.yandex.ru/card/dikiy-i-neistovyy/103812193417)
 
 Read
 
