@@ -420,6 +420,7 @@ lang: ru
 Купить
 
 - 📚 [Wildberries](https://www.wildberries.ru/catalog/125013167/detail.aspx)
+- 📚 [Yandex.Market](https://market.yandex.ru/card/dikiy-i-neistovyy/103812193417)
 
 Читать
 
@@ -743,6 +744,7 @@ That very scandalous book from the series of works on the Fractured Star Univers
 
 - 📚 [Ozon](https://ozon.ru/t/wGgrVxs)
 - 📚 [Wildberries](https://www.wildberries.ru/catalog/920294356/detail.aspx)
+- 📚 [Yandex.Market](https://market.yandex.ru/card/wild-and-violent/5438355280)
 
 Читать
 
