@@ -248,6 +248,7 @@ Read
 - 📚 [Amazon](https://a.co/d/0dkA0G4M)
 - 📚 [Apple Books](https://books.apple.com/us/book/wild-and-violent-you-had-too-much-freedom/id6761559517)
 - 📚 [Litres](https://www.litres.ru/book/stella-fracta/wild-and-violent-you-had-too-much-freedom-73750663/)
+- 📚 [Mybook](https://mybook.ru/author/stella-fracta/wild-and-violent-you-had-too-much-freedom/)
 - 📚 [Ridero](https://ridero.ru/books/wild_and_violent)
 
 The book is an English translation of the novel **“Дикий и неистовый”** from Russian. Translator: Alexandra Undead.
