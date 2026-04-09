@@ -420,7 +420,7 @@ lang: ru
 Купить
 
 - 📚 [Wildberries](https://www.wildberries.ru/catalog/125013167/detail.aspx)
-- 📚 [Yandex.Market](https://market.yandex.ru/card/dikiy-i-neistovyy/103812193417)
+- 📚 [Яндекс.Маркет](https://market.yandex.ru/card/dikiy-i-neistovyy/103812193417)
 
 Читать
 
@@ -744,11 +744,12 @@ That very scandalous book from the series of works on the Fractured Star Univers
 
 - 📚 [Ozon](https://ozon.ru/t/wGgrVxs)
 - 📚 [Wildberries](https://www.wildberries.ru/catalog/920294356/detail.aspx)
-- 📚 [Yandex.Market](https://market.yandex.ru/card/wild-and-violent/5438355280)
+- 📚 [Яндекс.Маркет](https://market.yandex.ru/card/wild-and-violent/5438355280)
 
 Читать
 
 - 📚 [Литрес](https://www.litres.ru/book/stella-fracta/wild-and-violent-you-had-too-much-freedom-73750663/)
+- 📚 [Mybook](https://mybook.ru/author/stella-fracta/wild-and-violent-you-had-too-much-freedom/)
 - 📚 [Ridero](https://ridero.ru/books/wild_and_violent)
 - 📚 [Apple Books](https://books.apple.com/us/book/wild-and-violent-you-had-too-much-freedom/id6761559517)
 - 📚 [Amazon](https://a.co/d/0dkA0G4M)
