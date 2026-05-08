@@ -749,9 +749,11 @@ That very scandalous book from the series of works on the Fractured Star Univers
 Читать
 
 - 📚 [Литрес](https://www.litres.ru/book/stella-fracta/wild-and-violent-you-had-too-much-freedom-73750663/)
+- 📚 [Яндекс.Книги](https://books.yandex.ru/books/OWLLnCZG)
 - 📚 [Mybook](https://mybook.ru/author/stella-fracta/wild-and-violent-you-had-too-much-freedom/)
 - 📚 [Ridero](https://ridero.ru/books/wild_and_violent)
 - 📚 [Apple Books](https://books.apple.com/us/book/wild-and-violent-you-had-too-much-freedom/id6761559517)
+- 📚 [Строки](https://stroki.mts.ru/book/wild-and-violent-367029)
 - 📚 [Amazon](https://a.co/d/0dkA0G4M)
 
 Книга является англоязычным переводом романа **“Дикий и неистовый”**, переводчик Alexandra Undead (Александра Undead).
