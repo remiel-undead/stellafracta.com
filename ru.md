@@ -77,8 +77,8 @@ lang: ru
 Купить
 
 - 📚 [Читай-город](https://www.chitai-gorod.ru/product/neveroyatnyy-shpionskiy-detektiv-2995983)
-- 📚 [Буквоед](https://www.bookvoed.ru/book?id=13626213)
-- 📚 [Ozon](https://ozon.ru/t/RK9Vb7j)
+- 📚 [Буквоед](https://www.bookvoed.ru/product/neveroyatnyy-shpionskiy-detektiv-6777950)
+- 📚 [Ozon](https://www.ozon.ru/product/neveroyatnyy-shpionskiy-detektiv-poety-i-lzhetsy-frakta-stella-906564322/)
 - 📚 [Wildberries](https://www.wildberries.ru/catalog/152741610/detail.aspx)
 - 📚 [Book24](https://book24.ru/product/neveroyatnyy-shpionskiy-detektiv-6777950/)
 - 📚 [Яндекс.Маркет](https://market.yandex.ru/card/neveroyatnyy-shpionskiy-detektiv/103813630468)
@@ -132,8 +132,8 @@ lang: ru
 
 Купить
 
-- 📚 [Ozon](https://www.ozon.ru/product/zamok-albedo-frakta-stella-1151103000/)
-- 📚 [Wildberries](https://www.wildberries.ru/catalog/170990469/detail.aspx)
+- 📚 [Ozon](https://www.ozon.ru/product/zamok-albedo-frakta-stella-2219601417/)
+- 📚 [Wildberries](https://www.wildberries.ru/catalog/433971881/detail.aspx)
 - 📚 [Яндекс.Маркет](https://market.yandex.ru/card/zamok-albedo/4410852497)
 
 Читать
@@ -237,10 +237,10 @@ lang: ru
 - 📚 [Яндекс.Книги](https://bookmate.ru/books/LetMpq52)
 - 📚 [Mybook](https://mybook.ru/author/stella-frakta/koshki-nepyutvino/)
 - 📚 [Amazon](https://www.amazon.com/%D0%9A%D0%BE%D1%88%D0%BA%D0%B8-%D0%BD%D0%B5-%D0%BF%D1%8C%D1%8E%D1%82-%D0%B2%D0%B8%D0%BD%D0%BE-Russian-%D0%A4%D1%80%D0%B0%D0%BA%D1%82%D0%B0-%D0%A1%D1%82%D0%B5%D0%BB%D0%BB%D0%B0-ebook/dp/B0CL97N8RR/)
-- 📚 [Ridero](https://ridero.ru/books/koshki_ne_pyut_vino/)
 - 📚 [Строки](https://stroki.mts.ru/book/koshki-nepyutvino-207342)
 - 📚 [Apple Books](https://books.apple.com/us/book/%D0%BA%D0%BE%D1%88%D0%BA%D0%B8-%D0%BD%D0%B5-%D0%BF%D1%8C%D1%8E%D1%82-%D0%B2%D0%B8%D0%BD%D0%BE/id6741134553)
 - 📚 [Google Books](https://www.google.ru/books/edition/%D0%9A%D0%BE%D1%88%D0%BA%D0%B8_%D0%BD%D0%B5_%D0%BF%D1%8C%D1%8E%D1%82_%D0%B2%D0%B8%D0%BD%D0%BE/2QgXEQAAQBAJ?hl=en&gbpv=0)
+- 📚 [Ridero](https://ridero.ru/books/koshki_ne_pyut_vino/)
 
 Подробнее о книге
 
@@ -286,9 +286,9 @@ lang: ru
 - 📚 [Яндекс.Книги](https://bookmate.ru/books/BH0pReiY)
 - 📚 [Mybook](https://mybook.ru/author/stella-frakta/rycar-krasavica-chudovisheshut-sesh-serdce-poluchi/)
 - 📚 [Amazon](https://www.amazon.com/Рыцарь-красавица-чудовище-шут-получишь-ebook/dp/B0CRZ2JMPL/)
-- 📚 [Ridero](https://ridero.ru/books/rycar_krasavica_chudovishe_shut)
 - 📚 [Apple Books](https://books.apple.com/us/book/%D1%80%D1%8B%D1%86%D0%B0%D1%80%D1%8C-%D0%BA%D1%80%D0%B0%D1%81%D0%B0%D0%B2%D0%B8%D1%86%D0%B0-%D1%87%D1%83%D0%B4%D0%BE%D0%B2%D0%B8%D1%89%D0%B5-%D1%88%D1%83%D1%82-%D1%81%D1%8A%D0%B5%D1%88%D1%8C-%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B5-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%88%D1%8C/id6741203699)
 - 📚 [Google Books](https://www.google.ru/books/edition/%D0%A0%D1%8B%D1%86%D0%B0%D1%80%D1%8C_%D0%BA%D1%80%D0%B0%D1%81%D0%B0%D0%B2%D0%B8%D1%86%D0%B0_%D1%87%D1%83%D0%B4%D0%BE/mkIXEQAAQBAJ?hl=en&gbpv=0)
+- 📚 [Ridero](https://ridero.ru/books/rycar_krasavica_chudovishe_shut)
 
 Подробнее о книге
 
@@ -375,7 +375,7 @@ lang: ru
 
 - 📚 [Литрес](https://litres.ru/69435889)
 - 📚 [Mybook](https://mybook.ru/author/stella-frakta/bezymyannaya-skripka/)
-- 📚 [Яндекс.Книги](https://bookmate.ru/books/IMLgL0hP)
+- 📚 [Яндекс.Книги](https://books.yandex.ru/books/takc4SeF)
 - 📚 [Apple Books](https://books.apple.com/de/book/безымянная-скрипка/id6451274315)
 - 📚 [Google Books](https://www.google.ru/books/edition/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%B0/x-cdEQAAQBAJ?hl=en&gbpv=0)
 - 📚 [Amazon](https://www.amazon.com/Безымянная-скрипка-Russian-Фракта-Стелла-ebook/dp/B0CBQ37NM5/)
@@ -470,7 +470,7 @@ lang: ru
 Купить
 
 - 📚 [Читай-город](https://www.chitai-gorod.ru/product/sbor-urozhaya-2980847)
-- 📚 [Буквоед](https://www.bookvoed.ru/book?id=13611637)
+- 📚 [Буквоед](https://www.bookvoed.ru/product/sbor-urozhaya-6750788)
 - 📚 [Ozon](https://www.ozon.ru/product/sbor-urozhaya-739440493/)
 - 📚 [Wildberries](https://www.wildberries.ru/catalog/108395870/detail.aspx)
 - 📚 [Book24](https://book24.ru/product/sbor-urozhaya-6750788/)
@@ -480,7 +480,7 @@ lang: ru
 
 - 📚 [Литрес](https://www.litres.ru/stella-frakta/sbor-urozhaya/)
 - 📚 [Mybook](https://mybook.ru/author/stella-frakta/sbor-urozhaya/)
-- 📚 [Яндекс.Книги](https://bookmate.ru/authors/vKl5hLah)
+- 📚 [Яндекс.Книги](https://books.yandex.ru/books/rLecABPs)
 - 📚 [Строки](https://stroki.mts.ru/book/sbor-urozhaya-195349)
 - 📚 [Amazon](http://www.amazon.com/dp/B0BHDPCQN5)
 - 📚 [Apple Books](https://books.apple.com/de/book/сбор-урожая/id6443732967)
@@ -827,7 +827,7 @@ Prequel to 'Glorious Evolution' by Stella Fracta.
 
 🎧 [Apple Podcasts](https://podcasts.apple.com/podcast/id1738390311)
 
-🎧 [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9jbG91ZC5tYXZlLmRpZ2l0YWwvNTQwNjE=)
+🎧 [YouTube Music](https://music.youtube.com/playlist?list=PL4M4dR773ukdcBl9Z7EJ9h1gIeoLiMN3j)
 
 🎧 [Mave](https://stellafractavoice.mave.digital)
 
