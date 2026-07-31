@@ -29,6 +29,8 @@ lang: ru
 
 📌 [Цитаты из книг на LiveLib](https://www.livelib.ru/author/2062840/quotes-stella-frakta)
 
+📌 [Pinterest](https://pin.it/7JJf2ojFb)
+
 🎧 [SoundCloud (аудиокниги, озвучки)](https://soundcloud.com/stellafracta)
 
 📷 [@stellafracta](https://www.instagram.com/stellafracta/)
