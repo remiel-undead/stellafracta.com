@@ -29,6 +29,8 @@ Writer, traditionalist philosopher, alchemist, podcaster. Architect of the Fract
 
 📌 [Book quotes on LiveLib](https://www.livelib.ru/author/2062840/quotes-stella-frakta)
 
+📌 [Pinterest](https://pin.it/7JJf2ojFb)
+
 🎧 [SoundCloud (audiobooks, voiceovers)](https://soundcloud.com/stellafracta)
 
 📷 [@stellafracta](https://www.instagram.com/stellafracta/)
