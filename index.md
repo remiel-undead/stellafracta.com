@@ -586,6 +586,8 @@ Read more
 
 - ✍️ [Jack the Ripper and the Mother's Womb: Edward Buchan, Birthday and Death. Roger Barber's Prime Suspect](https://dzen.ru/a/Zzy--H4Uv0a_qlJu)
 - ✍️ [Jack the Ripper Identified (No). Genetic Research & Storyteller from Whitechapel](https://dzen.ru/a/ZOiSAzzOCB0kcEwx)
+- ✍️ [Alchemy Is About the Self. All You Need to Know About Alchemy and Hermeticism](https://dzen.ru/a/ZgaN_RMnG36q85kY)
+- ✍️ [Alchemy, Psychology, Ego and Shadow: What's the Use of the Unconscious for an IT Specialist?](https://dzen.ru/a/ZH3086P2tBouiSae)
 - 🎵 [Book soundtrack playlist](https://youtube.com/playlist?list=PL4M4dR773ukdUDFpVAa2QuFh1iLDNUxPU)
 - 📌 [Notes & quotes about the book](https://dzen.ru/suite/eb653de4-c7f2-45dc-8482-ff105db1fc64)
 - 📌 [Quotes on Livelib](https://www.livelib.ru/book/1012299593/quotes-rasskazchik-izuaitchepela-stella-frakta)
@@ -812,6 +814,65 @@ Read
 - 📚 [Google Books](https://www.google.ru/books/edition/Чумная_маска_Сеанс_ок/392UEAAAQBAJ)
 - 📚 [Amazon](https://www.amazon.com/dp/B0BHZ9PBZY)
 - 📚 [Ridero](https://ridero.ru/books/chumnaya_maska/)
+
+Read more
+
+- 🎧 [Typos, Proofreading, Editing. Sadism and Masochism](https://dzen.ru/a/ZDaKqduUvFXfgAVZ)
+- 🖼️ [Xmas in the Closed Club Comic Book - English Version](https://www.webtoons.com/en/challenge/xmas-in-the-closed-club/list?title_no=741306)
+- 🖼️ [Xmas in the Closed Club Comic Book - Russian Version](https://www.webtoons.com/en/challenge/%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D0%B2-%D0%B7%D0%B0%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%BC-%D0%BA%D0%BB%D1%83%D0%B1%D0%B5/list?title_no=740057)
+
+## Стелла Фракта "Архитектор не оценит страданий"
+
+**English Title:** "Architect Won't Appreciate the Suffering"
+
+**Language:** Russian
+
+*What would you say to the Architect if you met him?*
+
+**A philosophical essay on a coversation with God, the Creator of the Fractured Star Universe**
+
+<img src="/public/img/Architect_Collection_Ridero_Cover_Official.jpg" width="50%">
+
+Erik, a single father tormented by guilt over his son’s depression, tries to forget his ex-wife through a casual fling with a stranger — and gets a chance to ask the Architect of This Universe that very existential question.
+
+The collection also includes **Shadows of Florence**, an initiatory novella about the young spy Richard from a series about alchemists, poets, and liars, and **Home All Alone**, a Christmas thriller about the children of bon ton parents in the universe of Baltimore serial killers.
+
+**Genre:** Drama / Philosophical prose / Modern prose
+
+**Size:** Short story
+
+Buy
+
+- 📚 [Ozon](https://www.ozon.ru/product/arhitektor-ne-otsenit-stradaniy-sbornik-frakta-stella-5893026397/)
+- 📚 [Wildberries](https://www.wildberries.ru/catalog/1724784375/detail.aspx)
+- 📚 [Yandex.Market](https://market.yandex.ru/card/arkhitektor-ne-otsenit-stradaniy/229129889381797888)
+
+Read
+
+- 📚 [Litres](https://www.litres.ru/book/stella-frakta/arkhitektor-ne-otsenit-stradanii-sbornik-74504107/)
+- 📚 [Yandex.Books](https://books.yandex.ru/books/rYMlgPsI)
+- 📚 [Amazon](https://www.amazon.com/dp/B0HKSHX2NF)
+- 📚 [Ridero](https://ridero.ru/books/arkhitektor_ne_ocenit_stradanii)
+
+Stella Fracta "Shadows of Florence" (English version)
+
+- 📚 [Wattpad](https://www.wattpad.com/story/387581425-shadows-of-florence)
+- 📚 [Ao3](https://archiveofourown.org/works/61930099)
+
+Stella Fracta "Home All Alone" (English version)
+
+- 📚 [Wattpad](https://www.wattpad.com/story/387506300-home-all-alone)
+- 📚 [Ao3](https://archiveofourown.org/works/61895815)
+
+Read more
+
+- ✍️ [Christian Symbolism of the Fractured Star Universe](https://dzen.ru/a/ZrHnwo4pQmK-haPA)
+- ✍️ [Alchemy Is About the Self. All You Need to Know About Alchemy and Hermeticism](https://dzen.ru/a/ZgaN_RMnG36q85kY)
+- ✍️ [Alchemy, Psychology, Ego and Shadow: What's the Use of the Unconscious for an IT Specialist?](https://dzen.ru/a/ZH3086P2tBouiSae)
+- 📌 [Quotes on Livelib](https://www.livelib.ru/book/1018430674/quotes-arhitektor-ne-otsenit-stradanij-sbornik-stella-frakta)
+- 📌 [Notes & quotes about the Fractured Star Universe](https://dzen.ru/suite/9e7e2412-c8c6-4180-9813-98bf53b18f81)
+- 📌 [Hannibal Lecter and Baltimore Serial Killers](https://dzen.ru/suite/b032afed-e6f6-45d8-96ed-b895d189ab3c)
+- 🎧 [s01e11 - - The Fractured Star Universe. Stella, Ange, Victor, The Game and Multivariants - Есть что сказать с Александрой Undead Podcast](https://music.yandex.ru/album/22291166/track/104354395)
 
 <p id="podcasts"></p>
 # **“Голос писателя” Podcast [RU]**
