@@ -98,6 +98,9 @@ lang: ru
 
 Подробнее о книге
 
+- ✍️ [Алхимия это про самость. Что нужно знать об алхимии и герметике](https://dzen.ru/a/ZgaN_RMnG36q85kY)
+- ✍️ [Алхимия, психология, Эго и Тень: зачем айтишнику бессознательное](https://dzen.ru/a/ZH3086P2tBouiSae)
+- ✍️ [Ломать нельзя оставить. Алхимия, великое делание и дом на участке](https://dzen.ru/a/ZakCVW7rVy1MkLIh)
 - ✍️ [Научная фантастика, фэнтези или реализм? Невероятный шпионский детектив](https://dzen.ru/a/ZN9vOj_5jXCGswgz)
 - ✍️ [Шпионский роман и алхимия. Что общего](https://dzen.ru/a/ZJHa5APltUbjmIYn)
 - ✍️ [Книга за 3 недели. Цена успеха, цена ошибки](https://dzen.ru/a/ZGyaEKPfhBmArwrI)
@@ -154,6 +157,9 @@ lang: ru
 - ✍️ [Red Bull Racing, Honda, Формула-1 и Замок Альбедо в Японии](https://dzen.ru/a/ZMjeaQJgbSSTKT3A)
 - ✍️ [Замок Альбедо: Вавилонская башня, Брейгель, музей в Роттердаме и противозаконные шутки в книге](https://dzen.ru/a/ZKgB2mukEyyP7zeh)
 - ✍️ [Доктор философии vs Доктор философских наук: Замок Альбедо](https://dzen.ru/a/ZJ7VMuIiFmtkt5-i)
+- ✍️ [Алхимия это про самость. Что нужно знать об алхимии и герметике](https://dzen.ru/a/ZgaN_RMnG36q85kY)
+- ✍️ [Алхимия, психология, Эго и Тень: зачем айтишнику бессознательное](https://dzen.ru/a/ZH3086P2tBouiSae)
+- ✍️ [Ломать нельзя оставить. Алхимия, великое делание и дом на участке](https://dzen.ru/a/ZakCVW7rVy1MkLIh)
 - 📌 [Подборка материалов и цитат о шпионах, поэтах и алхимиках](https://dzen.ru/suite/d4d1aa2c-7eba-47a9-a353-d1e695e492c0)
 - 📌 [Цитаты на Livelib](https://www.livelib.ru/work/1008818518-zamok-albedo-stella-frakta)
 
@@ -205,6 +211,9 @@ lang: ru
 
 - ✍️ [Синдром Морица Бера. Когда знания нужно обязательно применять](https://dzen.ru/a/ZUilbiRpNypTShOr)
 - ✍️ [Зачем нужны философы](https://dzen.ru/a/ZTjtDMoV9Wle0ACZ?share_to=link)
+- ✍️ [Алхимия это про самость. Что нужно знать об алхимии и герметике](https://dzen.ru/a/ZgaN_RMnG36q85kY)
+- ✍️ [Алхимия, психология, Эго и Тень: зачем айтишнику бессознательное](https://dzen.ru/a/ZH3086P2tBouiSae)
+- ✍️ [Ломать нельзя оставить. Алхимия, великое делание и дом на участке](https://dzen.ru/a/ZakCVW7rVy1MkLIh)
 - 📌 [Подборка материалов и цитат о шпионах, поэтах и алхимиках](https://dzen.ru/suite/d4d1aa2c-7eba-47a9-a353-d1e695e492c0)
 - 📌 [Цитаты на Livelib](https://www.livelib.ru/work/1009023583-bajesovskayaigra-stella-frakta)
 
@@ -247,6 +256,8 @@ lang: ru
 Подробнее о книге
 
 - ✍️ [Статья о романе «Кошки не пьют вино»](https://dzen.ru/a/Y-OfRBO-WTSGXZ3C?share_to=link)
+- ✍️ [Алхимия это про самость. Что нужно знать об алхимии и герметике](https://dzen.ru/a/ZgaN_RMnG36q85kY)
+- ✍️ [Алхимия, психология, Эго и Тень: зачем айтишнику бессознательное](https://dzen.ru/a/ZH3086P2tBouiSae)
 - 🍷 [Бароло из Бароло](https://dzen.ru/a/ZDLh7TnP5FfFEz8A)
 - 📌 [Подборка с цитатами и информацией о книге](https://dzen.ru/suite/e611fa19-feee-451b-b702-58dac9f647ed)
 - 📌 [Цитаты на Livelib](https://www.livelib.ru/work/1008999124-koshki-nepyutvino-stella-frakta)
@@ -342,6 +353,8 @@ lang: ru
 
 - ✍️ [Джек-потрошитель и утроба матери: Эдвард Бьюкен, день рождения и смерти. Главный подозреваемый Роджера Барбера](https://dzen.ru/a/Zzy--H4Uv0a_qlJu)
 - ✍️ [Личность Джека-потрошителя установлена (Нет). Генетическое исследование и Рассказчик из Уайтчепела](https://dzen.ru/a/ZOiSAzzOCB0kcEwx)
+- ✍️ [Алхимия это про самость. Что нужно знать об алхимии и герметике](https://dzen.ru/a/ZgaN_RMnG36q85kY)
+- ✍️ [Алхимия, психология, Эго и Тень: зачем айтишнику бессознательное](https://dzen.ru/a/ZH3086P2tBouiSae)
 - 🎵 [Плейлист с саундтреками к книге](https://youtube.com/playlist?list=PL4M4dR773ukdUDFpVAa2QuFh1iLDNUxPU)
 - 📌 [Подборка с цитатами и информацией о книге](https://dzen.ru/suite/eb653de4-c7f2-45dc-8482-ff105db1fc64)
 - 📌 [Цитаты на Livelib](https://www.livelib.ru/book/1012299593/quotes-rasskazchik-izuaitchepela-stella-frakta)
@@ -386,7 +399,7 @@ lang: ru
 Подробнее о книге
 
 - ✍️ [Большая статья о романе](https://dzen.ru/a/ZK_MdKH4Q1E6QnMw?sid=1350123623212052)
-- ✍️ [Христианский символизм Вселенной Ращепленной Звезды](https://dzen.ru/a/ZrHnwo4pQmK-haPA)
+- ✍️ [Христианский символизм Вселенной Расщепленной Звезды](https://dzen.ru/a/ZrHnwo4pQmK-haPA)
 - 🎵 [Плейлист с саундтреками к книге](https://www.youtube.com/playlist?list=PL4M4dR773ukeejAxSt620m2wt4CUNLSqD)
 - 📌 [Цитаты на Livelib](https://www.livelib.ru/work/1008770593-bezymyannaya-skripka-stella-frakta)
 - 📌 [Подборка цитат и интересных фактов по Вселенной Расщепленной Звезды](https://dzen.ru/suite/9e7e2412-c8c6-4180-9813-98bf53b18f81)
@@ -574,6 +587,71 @@ lang: ru
 - 📚 [Google Books](https://www.google.ru/books/edition/Чумная_маска_Сеанс_ок/392UEAAAQBAJ)
 - 📚 [Amazon](https://www.amazon.com/dp/B0BHZ9PBZY)
 - 📚 [Ridero](https://ridero.ru/books/chumnaya_maska/)
+
+## Стелла Фракта «Архитектор не оценит страданий»
+
+*Что бы вы сказали Архитектору, если бы встретили его?*
+
+**Философское эссе о разговоре с Богом – создателем Вселенной Расщепленной Звезды**
+
+<img src="/public/img/Architect_Collection_Ridero_Cover_Official.jpg" width="50%">
+
+Эрик, отец-одиночка, мучимый чувством вины из-за депрессии сына, пытается забыть бывшую жену в случайной связи с незнакомкой — но получает возможность задать тот самый экзистенциальный вопрос Архитектору Этой Вселенной.
+
+В сборник также вошли инициатическая новелла «Тени Флоренции» о молодом шпионе Ричарде из серии об алхимиках, поэтах и лжецах, и рождественский триллер «Одни дома» о детях богатых родителей из вселенной серийных убийц Балтимора.
+
+**Жанр:** Драма / Философская проза / Современная проза
+
+**Объем:** Новелла / Короткий роман
+
+Купить
+
+- 📚 [Ozon](https://www.ozon.ru/product/arhitektor-ne-otsenit-stradaniy-sbornik-frakta-stella-5893026397/)
+- 📚 [Wildberries](https://www.wildberries.ru/catalog/1724784375/detail.aspx)
+- 📚 [Яндекс.Маркет](https://market.yandex.ru/card/arkhitektor-ne-otsenit-stradaniy/229129889381797888)
+
+Читать
+
+- 📚 [Литрес](https://www.litres.ru/book/stella-frakta/arkhitektor-ne-otsenit-stradanii-sbornik-74504107/)
+- 📚 [Яндекс.Книги](https://books.yandex.ru/books/rYMlgPsI)
+- 📚 [Amazon](https://www.amazon.com/dp/B0HKSHX2NF)
+- 📚 [Ридеро](https://ridero.ru/books/arkhitektor_ne_ocenit_stradanii)
+
+**Стелла Фракта «Тени Флоренции»**
+
+Куратор библиотеки Каппони приглашен в художественную студию Альбины Люпо, флорентийской владелицы частной галереи. Он достаточно проницателен, чтобы понять, что натурщик Ричард – ее молодой любовник – не тот, за кого себя выдает.
+
+**Жанр:** Драма / Шпионская проза / Философская проза / Современная проза
+
+**Объем:** Новелла / Короткий роман
+
+Опубликовано также на английском языке (Stella Fracta "Shadows of Florence").
+
+- 📚 [Wattpad](https://www.wattpad.com/story/387581425-shadows-of-florence)
+- 📚 [Ao3](https://archiveofourown.org/works/61930099)
+
+**Стелла Фракта «Одни дома»**
+
+**Жанр:** Триллер / Философская проза / Современная проза
+
+**Объем:** Новелла / Короткий роман
+
+Если хочешь узнать о семье, посмотри на их ребенка. Лукасу Гаштольду шестнадцать, на Рождество он остается приглядывать за шестилетним малышом Уиллом Гатти, одиннадцатилетними Аллексом Серретом, Уильямом Густавссоном и Виктором Майером, двенадцатилетними Нилом Блейком и Диланом Вермиллионом в доме семьи фон Райхенбергов.
+
+Опубликовано также на английском языке (Stella Fracta "Home All Alone").
+
+- 📚 [Wattpad](https://www.wattpad.com/story/387506300-home-all-alone)
+- 📚 [Ao3](https://archiveofourown.org/works/61895815)
+
+Подробнее о книге
+
+- ✍️ [Христианский символизм Вселенной Расщепленной Звезды](https://dzen.ru/a/ZrHnwo4pQmK-haPA)
+- ✍️ [Алхимия это про самость. Что нужно знать об алхимии и герметике](https://dzen.ru/a/ZgaN_RMnG36q85kY)
+- ✍️ [Алхимия, психология, Эго и Тень: зачем айтишнику бессознательное](https://dzen.ru/a/ZH3086P2tBouiSae)
+- 📌 [Цитаты на Livelib](https://www.livelib.ru/book/1018430674/quotes-arhitektor-ne-otsenit-stradanij-sbornik-stella-frakta)
+- 📌 [Подборка цитат и интересных фактов по Вселенной Расщепленной Звезды](https://dzen.ru/suite/9e7e2412-c8c6-4180-9813-98bf53b18f81)
+- 📌 [Ганнибал и Серийные убийцы Балтимора](https://dzen.ru/suite/b032afed-e6f6-45d8-96ed-b895d189ab3c)
+- 🎧 [s01e11 - Вселенная Расщепленной Звезды. Стелла, Анж, Виктор, Игра и мультиварианты - Подкаст Есть что сказать с Александрой Undead](https://music.yandex.ru/album/22291166/track/104354395)
 
 <p id="books_in_english"></p>
 # Книги на английском языке / переводы
@@ -770,7 +848,7 @@ A fanfic on 'Hannibal' x 'The Knight, the Beauty, the Beast, the Fool' (Stella F
 
 - 📚 [Wattpad](https://www.wattpad.com/story/387506300-home-all-alone)
 - 📚 [Ao3](https://archiveofourown.org/works/61895815)
-- 📚 [Ficbook - Russian Version - Одни дома](https://ficbook.net/readfic/13017720)
+- 📚 [Russian Version (short story collection "Architect Won't Appreciate the Suffering") - Одни дома](http://www.amazon.com/dp/B0HKSHX2NF)
 
 **Stella Fracta "Shadows of Florence"**
 
@@ -781,7 +859,7 @@ Fanfic on 'Hannibal' (Thomas Harris) x 'Incredible Spy Detective' (Stella Fracta
 
 - 📚 [Wattpad](https://www.wattpad.com/story/387581425-shadows-of-florence)
 - 📚 [Ao3](https://archiveofourown.org/works/61930099)
-- 📚 [Ficbook - Russian Version - Тени Флоренции](https://ficbook.net/readfic/13397866)
+- 📚 [Russian Version (short story collection "Architect Won't Appreciate the Suffering") - Тени Флоренции](http://www.amazon.com/dp/B0HKSHX2NF)
 
 **Stella Fracta "Glorious Evolution"**
 
