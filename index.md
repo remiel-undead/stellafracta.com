@@ -267,7 +267,7 @@ A fanfic on 'Hannibal' x 'The Knight, the Beauty, the Beast, the Fool' (Stella F
 
 - 📚 [Wattpad](https://www.wattpad.com/story/387506300-home-all-alone)
 - 📚 [Ao3](https://archiveofourown.org/works/61895815)
-- 📚 [Ficbook - Russian Version - Одни дома](https://ficbook.net/readfic/13017720)
+- 📚 [Russian Version (short story collection "Architect Won't Appreciate the Suffering") - Одни дома](http://www.amazon.com/dp/B0HKSHX2NF)
 
 **Stella Fracta "Shadows of Florence"**
 
@@ -278,7 +278,7 @@ Fanfic on 'Hannibal' (Thomas Harris) x 'Incredible Spy Detective' (Stella Fracta
 
 - 📚 [Wattpad](https://www.wattpad.com/story/387581425-shadows-of-florence)
 - 📚 [Ao3](https://archiveofourown.org/works/61930099)
-- 📚 [Ficbook - Russian Version - Тени Флоренции](https://ficbook.net/readfic/13397866)
+- 📚 [Russian Version (short story collection "Architect Won't Appreciate the Suffering") - Тени Флоренции](http://www.amazon.com/dp/B0HKSHX2NF)
 
 **Stella Fracta "Glorious Evolution"**
 
@@ -340,6 +340,9 @@ Read
 
 Read more
 
+- ✍️ [Alchemy Is About the Self. All You Need to Know About Alchemy and Hermeticism](https://dzen.ru/a/ZgaN_RMnG36q85kY)
+- ✍️ [Alchemy, Psychology, Ego and Shadow: What's the Use of the Unconscious for an IT Specialist?](https://dzen.ru/a/ZH3086P2tBouiSae)
+- ✍️ [Break or Keep. Alchemy, the Great Work, and a House on a Plot](https://dzen.ru/a/ZakCVW7rVy1MkLIh)
 - ✍️ [Science Fiction, Fantasy or Realism? Incredible Spy Detective](https://dzen.ru/a/ZN9vOj_5jXCGswgz)
 - ✍️ [Spy Novel and Alchemy. What’s in Common](https://dzen.ru/a/ZJHa5APltUbjmIYn)
 - ✍️ [Book for 3 Weeks. The Price of Success, the Price of Mistake](https://dzen.ru/a/ZGyaEKPfhBmArwrI)
@@ -386,6 +389,9 @@ Read more
 - ✍️ [Red Bull Racing, Honda, Formula 1 and Albedo Castle in Japan](https://dzen.ru/a/ZMjeaQJgbSSTKT3A)
 - ✍️ [Albedo Castle: The Tower of Babel, Bruegel, a Museum in Rotterdam and Illegal Jokes in the Book](https://dzen.ru/a/ZKgB2mukEyyP7zeh)
 - ✍️ [Doctor of Philosophy vs Doctor of Sciences in Philosophical Sciences: Albedo Castle](https://dzen.ru/a/ZJ7VMuIiFmtkt5-i)
+- ✍️ [Alchemy Is About the Self. All You Need to Know About Alchemy and Hermeticism](https://dzen.ru/a/ZgaN_RMnG36q85kY)
+- ✍️ [Alchemy, Psychology, Ego and Shadow: What's the Use of the Unconscious for an IT Specialist?](https://dzen.ru/a/ZH3086P2tBouiSae)
+- ✍️ [Break or Keep. Alchemy, the Great Work, and a House on a Plot](https://dzen.ru/a/ZakCVW7rVy1MkLIh)
 - 📌 [Notes & quotes about spies, poets & liars](https://dzen.ru/suite/d4d1aa2c-7eba-47a9-a353-d1e695e492c0)
 - 📌 [Quotes on Livelib](https://www.livelib.ru/work/1008818518-zamok-albedo-stella-frakta)
 
@@ -440,6 +446,9 @@ Read more
 
 - ✍️ [Moritz Baer Syndrome. When Knowledge Must Be Applied](https://dzen.ru/a/ZUilbiRpNypTShOr)
 - ✍️ [Why Do We Need Philosophers](https://dzen.ru/a/ZTjtDMoV9Wle0ACZ?share_to=link)
+- ✍️ [Alchemy Is About the Self. All You Need to Know About Alchemy and Hermeticism](https://dzen.ru/a/ZgaN_RMnG36q85kY)
+- ✍️ [Alchemy, Psychology, Ego and Shadow: What's the Use of the Unconscious for an IT Specialist?](https://dzen.ru/a/ZH3086P2tBouiSae)
+- ✍️ [Break or Keep. Alchemy, the Great Work, and a House on a Plot](https://dzen.ru/a/ZakCVW7rVy1MkLIh)
 - 📌 [Notes & quotes about spies, poets & liars](https://dzen.ru/suite/d4d1aa2c-7eba-47a9-a353-d1e695e492c0)
 - 📌 [Quotes on Livelib](https://www.livelib.ru/work/1009023583-bajesovskayaigra-stella-frakta)
 
@@ -487,6 +496,8 @@ Read more
 
 - ✍️ [About the Novel “Cats Don’t Drink Wine”](https://dzen.ru/a/Y-OfRBO-WTSGXZ3C?share_to=link)
 - 🍷 [Barolo From Barolo](https://dzen.ru/a/ZDLh7TnP5FfFEz8A)
+- ✍️ [Alchemy Is About the Self. All You Need to Know About Alchemy and Hermeticism](https://dzen.ru/a/ZgaN_RMnG36q85kY)
+- ✍️ [Alchemy, Psychology, Ego and Shadow: What's the Use of the Unconscious for an IT Specialist?](https://dzen.ru/a/ZH3086P2tBouiSae)
 - 📌 [Notes & quotes about the book](https://dzen.ru/suite/e611fa19-feee-451b-b702-58dac9f647ed)
 - 📌 [Quotes on Livelib](https://www.livelib.ru/work/1008999124-koshki-nepyutvino-stella-frakta)
 
